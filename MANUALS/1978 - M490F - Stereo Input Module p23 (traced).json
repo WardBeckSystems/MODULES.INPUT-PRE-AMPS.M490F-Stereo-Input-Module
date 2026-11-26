@@ -1,0 +1,43 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1978 - M490F - Stereo Input Module.pdf",
+ "page": 23,
+ "version": 1,
+ "trace": "_traces/d14c6ee45a2cdb77-p23.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "23", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.2, 33.9, 304.0, 427.3],
+ "outlines": {
+  "line": {"rings": 25, "straight": {"n": 584, "mm": 2708.8}, "curved": {"n": 56, "mm": 87.2}},
+  "text": {"rings": 75, "straight": {"n": 716, "mm": 883.3}, "curved": {"n": 170, "mm": 267.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 8,
+  "lines": [
+   {"mm": [27.4, 417.8, 141.8, 424.7], "text": "WAAC-Sacksyatams LtC"},
+   {"mm": [120.3, 229.9, 210.5, 237.1], "text": "7-112 CHANNEL AMPLIFIER"},
+   {"mm": [237.9, 55.1, 256.7, 62.0], "text": "ISSUE"},
+   {"mm": [237.3, 42.1, 284.1, 48.6], "text": "OCTOBER 1983"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–304 mm across, 34–427 mm up",
+  "- **Outlines:** line 25 rings, 584 straight (2,709 mm) / 56 curved (87.2 mm); text 75 rings, 716 straight (883 mm) / 170 curved (268 mm)",
+  "- **Words (OCR):** 8 in 4 lines: WAAC-Sacksyatams LtC · 7-112 CHANNEL AMPLIFIER · ISSUE · OCTOBER 1983"
+ ]
+}

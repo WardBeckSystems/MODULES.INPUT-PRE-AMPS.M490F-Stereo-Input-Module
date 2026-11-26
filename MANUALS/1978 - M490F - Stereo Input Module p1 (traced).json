@@ -1,0 +1,55 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1978 - M490F - Stereo Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/d14c6ee45a2cdb77-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1589, 2000],
+  "mm": [343.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.0, 1.4, 316.0, 423.2],
+ "outlines": {
+  "line": {"rings": 25, "straight": {"n": 550, "mm": 2666.8}, "curved": {"n": 94, "mm": 147.9}},
+  "text": {"rings": 179, "straight": {"n": 2123, "mm": 2783.1}, "curved": {"n": 436, "mm": 681.4}},
+  "tb": {"rings": 2, "straight": {"n": 96, "mm": 295.2}, "curved": {"n": 8, "mm": 17.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [121.1, 405.0, 287.4, 414.6], "text": "WAAD-BECK SYSteMS LTD_"},
+   {"mm": [50.1, 396.2, 286.1, 410.8], "text": "WBS 841 PACGRESS AVENLE; SCAABCAOUGH ONTAAIO M1h2x4"},
+   {"mm": [209.0, 392.9, 286.3, 399.7], "text": "TELEPHONE: 4161428-6550"},
+   {"mm": [120.0, 393.2, 174.0, 398.4], "text": "Telex: C65-25399"},
+   {"mm": [144.2, 239.9, 199.7, 251.9], "text": "M49of"},
+   {"mm": [187.4, 226.9, 219.8, 235.5], "text": "MODULE"},
+   {"mm": [123.1, 226.7, 184.4, 235.1], "text": "STEREO INPUT"},
+   {"mm": [99.3, 0.0, 255.2, 6.5], "text": "AND MANUFACTURE Of PACFESSIONAL AUCIO EOUPMENT"},
+   {"mm": [77.3, 0.2, 97.8, 5.5], "text": "DESIGN"}
+  ]
+ },
+ "title_block": {
+  "mm": [43.3, 387.5, 267.1, 423.4],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK SYSteMS LTD_", "WBS 841 PACGRESS AVENLE; SCAABCAOUGH ONTAAIO M1h2x4", "TELEPHONE: 4161428-6550", "Telex: C65-25399"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 343 × 432 mm, 1589 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–316 mm across, 1–423 mm up",
+  "- **Outlines:** line 25 rings, 550 straight (2,667 mm) / 94 curved (148 mm); text 179 rings, 2,123 straight (2,783 mm) / 436 curved (681 mm); tb 2 rings, 96 straight (295 mm) / 8 curved (17.2 mm)",
+  "- **Words (OCR):** 15 in 9 lines: WAAD-BECK SYSteMS LTD_ · WBS 841 PACGRESS AVENLE; SCAABCAOUGH ONTAAIO M1h2x4 · TELEPHONE: 4161428-6550 · Telex: C65-25399 · M49of · MODULE · STEREO INPUT · AND MANUFACTURE Of PACFESSIONAL AUCIO EOUPMENT · DESIGN",
+  "- **Title block:** (43, 388)–(267, 423) mm: WAAD-BECK SYSteMS LTD_ · WBS 841 PACGRESS AVENLE; SCAABCAOUGH ONTAAIO M1h2x4 · TELEPHONE: 4161428-6550 · Telex: C65-25399"
+ ]
+}

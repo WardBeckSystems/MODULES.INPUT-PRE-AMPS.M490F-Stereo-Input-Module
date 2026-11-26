@@ -1,0 +1,50 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/0f6a896200e6d01d-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1589, 2000],
+  "mm": [343.1, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.0, 1.3, 317.8, 423.2],
+ "outlines": {
+  "line": {"rings": 157, "straight": {"n": 2045, "mm": 4734.3}, "curved": {"n": 421, "mm": 689.8}},
+  "text": {"rings": 85, "straight": {"n": 943, "mm": 1381.0}, "curved": {"n": 197, "mm": 315.8}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 20,
+  "lines": [
+   {"mm": [122.2, 405.0, 197.8, 412.5], "text": "WARD-SECK"},
+   {"mm": [265.8, 405.0, 286.3, 412.5], "text": "LTD"},
+   {"mm": [45.8, 395.1, 283.0, 410.9], "text": "(VVE3S] 94'1~ _~~ONT\"\"\"'O ax"},
+   {"mm": [122.0, 392.7, 153.5, 397.0], "text": "Ta.I!)t OlIIl"},
+   {"mm": [243.8, 392.7, 269.7, 397.0], "text": ",41 I1 C38"},
+   {"mm": [144.9, 239.0, 199.3, 249.1], "text": "M4S0F"},
+   {"mm": [124.6, 226.9, 219.6, 233.4], "text": "STEREO NPUT MO DULE"},
+   {"mm": [285.0, 66.5, 306.4, 75.9], "text": "ps"},
+   {"mm": [273.3, 54.8, 295.8, 66.6], "text": "BS"},
+   {"mm": [250.4, 31.7, 269.4, 39.2], "text": "tp"},
+   {"mm": [243.1, 24.4, 264.5, 31.8], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 343 × 432 mm, 1589 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 3–318 mm across, 1–423 mm up",
+  "- **Outlines:** line 157 rings, 2,045 straight (4,734 mm) / 421 curved (690 mm); text 85 rings, 943 straight (1,381 mm) / 197 curved (316 mm)",
+  "- **Words (OCR):** 20 in 11 lines: WARD-SECK · LTD · (VVE3S] 94'1~ _~~ONT\"\"\"'O ax · Ta.I!)t OlIIl · ,41 I1 C38 · M4S0F · STEREO NPUT MO DULE · ps · BS · tp · ht"
+ ]
+}

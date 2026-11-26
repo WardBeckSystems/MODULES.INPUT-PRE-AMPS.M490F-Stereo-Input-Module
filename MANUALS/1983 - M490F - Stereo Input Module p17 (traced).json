@@ -1,0 +1,78 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
+ "page": 17,
+ "version": 1,
+ "trace": "_traces/0f6a896200e6d01d-p17.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1568, 2000],
+  "mm": [338.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "17", "pages": "34"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.4, 0.0, 311.8, 426.8],
+ "outlines": {
+  "line": {"rings": 399, "straight": {"n": 3560, "mm": 6919.8}, "curved": {"n": 852, "mm": 1295.4}},
+  "text": {"rings": 413, "straight": {"n": 3507, "mm": 4034.5}, "curved": {"n": 977, "mm": 1477.5}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [190.2, 116.6, 192.4, 118.7], "w": 2.2, "h": 2.2, "from": "ring"},
+  {"mm": [190.0, 96.3, 192.2, 98.7], "w": 2.2, "h": 2.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 40,
+  "lines": [
+   {"mm": [32.0, 412.8, 57.4, 419.3], "text": "WAAC"},
+   {"mm": [87.7, 412.8, 127.4, 419.3], "text": "SystEMs"},
+   {"mm": [147.5, 364.2, 192.2, 373.8], "text": "PMRIS LUSI"},
+   {"mm": [196.7, 350.0, 223.7, 361.0], "text": "MQDULE"},
+   {"mm": [116.4, 353.9, 192.8, 360.3], "text": "049mF Sterec T\"nT"},
+   {"mm": [39.1, 324.5, 112.3, 334.1], "text": "PART descri?mon"},
+   {"mm": [236.6, 324.5, 300.3, 334.1], "text": "Mj PEL WNB"},
+   {"mm": [62.8, 308.5, 97.8, 319.6], "text": "Resigtor"},
+   {"mm": [180.7, 310.0, 210.9, 319.6], "text": "Phtlfps"},
+   {"mm": [63.7, 299.9, 97.2, 306.4], "text": "Retlicor"},
+   {"mm": [99.5, 291.0, 123.5, 306.9], "text": "08"},
+   {"mm": [75.6, 289.5, 97.8, 299.1], "text": "iator"},
+   {"mm": [40.6, 230.6, 97.4, 240.2], "text": "R13I Resiaur"},
+   {"mm": [40.6, 224.3, 59.8, 233.9], "text": "R132"},
+   {"mm": [65.4, 212.2, 97.4, 218.7], "text": "82515:Or"},
+   {"mm": [40.6, 203.6, 59.8, 214.6], "text": "R15"},
+   {"mm": [265.3, 203.6, 287.6, 214.6], "text": "(2,5}"},
+   {"mm": [181.6, 206.0, 202.3, 212.4], "text": "Fther"},
+   {"mm": [65.4, 193.2, 97.4, 199.7], "text": "Resis-nr"},
+   {"mm": [65.4, 156.7, 109.9, 163.2], "text": "Saltcm CASS"},
+   {"mm": [181.6, 156.7, 210.3, 163.2], "text": "Scnidou"},
+   {"mm": [255.0, 156.7, 277.2, 163.2], "text": "L[-042"},
+   {"mm": [40.6, 151.1, 59.8, 160.7], "text": "54Z]"},
+   {"mm": [180.7, 96.9, 215.7, 106.5], "text": "Dialigh:"},
+   {"mm": [237.3, 99.3, 269.2, 105.8], "text": "544-J221"},
+   {"mm": [117.0, 81.2, 147.2, 93.9], "text": "of ATTL"},
+   {"mm": [261.2, 42.1, 309.0, 89.8], "text": "WBSps ."},
+   {"mm": [255.0, 74.1, 278.9, 80.5], "text": "4e04s"},
+   {"mm": [181.6, 72.3, 210.3, 78.8], "text": "Scnedjw"},
+   {"mm": [108.4, 51.0, 165.6, 62.0], "text": "circuit: Tined"},
+   {"mm": [189.6, 53.3, 210.3, 59.8], "text": "Aona"},
+   {"mm": [237.3, 53.3, 266.0, 59.8], "text": "Lmzdam"},
+   {"mm": [65.4, 51.6, 94.1, 58.1], "text": "Intesti"},
+   {"mm": [237.3, 40.6, 269.2, 47.1], "text": "coadiece"}
+  ]
+ },
+ "dots": [{"c": [50.7, 96.5], "r": 0.7, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 338 × 432 mm, 1568 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–312 mm across, 0–427 mm up",
+  "- **Outlines:** line 399 rings, 3,560 straight (6,920 mm) / 852 curved (1,295 mm); text 413 rings, 3,507 straight (4,034 mm) / 977 curved (1,478 mm)",
+  "- **Closed boxes:** 2",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 40 in 34 lines: WAAC · SystEMs · PMRIS LUSI · MQDULE · 049mF Sterec T\"nT · PART descri?mon · Mj PEL WNB · Resigtor · Phtlfps · Retlicor · 08 · iator"
+ ]
+}
