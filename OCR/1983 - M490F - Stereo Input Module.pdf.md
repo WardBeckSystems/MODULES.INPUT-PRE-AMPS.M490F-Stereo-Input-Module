@@ -25,7 +25,7 @@ Wiki page: [M490F](../../../../PAGES/M490F.md)
 - **Outlines:** line 157 rings, 2,045 straight (4,734 mm) / 421 curved (690 mm); text 85 rings, 943 straight (1,381 mm) / 197 curved (316 mm)
 - **Words (OCR):** 20 in 11 lines: WARD-SECK · LTD · (VVE3S] 94'1~ _~~ONT"""'O ax · Ta.I!)t OlIIl · ,41 I1 C38 · M4S0F · STEREO NPUT MO DULE · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p1 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p1%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p1 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p1 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p1%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p1 (traced).dxf`).
 
 ### Page 2
 
@@ -36,7 +36,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p1 (t
 - **Dots (junctions):** 1
 - **Words (OCR):** 93 in 54 lines: WAFlO BEC · SYSTEMS LTO · TA8LE OF COHTEHT · H490F STEREO INPUT HQDULE · Wa,.,.a nt · Technlc al Data · tp · tt · ne · Par-ts Lt · 3-1 to · C04016
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p2 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p2%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p2 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p2 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p2%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p2 (traced).dxf`).
 
 ### Page 3
 
@@ -47,7 +47,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p2 (t
 - **Closed boxes:** 2
 - **Words (OCR):** 194 in 76 lines: AR · CK SYST · LTO · TECHNICAL DATA · 1ot490F STEREO INPUT MODULE · In pu 5e ns lt iv · 10 · dBm (re · 600 · so urce). · ue ncy Response: · dS (1"0111 30 Hz
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p3 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p3%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p3 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p3 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p3%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p3 (traced).dxf`).
 
 ### Page 4
 
@@ -57,7 +57,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p3 (t
 - **Dots (junctions):** 1
 - **Words (OCR):** 86 in 38 lines: WARO·SECK YS TEMS LTO · TECH/HCAL DATA · H490F STEREO INPUT MOOULE · Extern · Con · Output: · Ope col lec to · rr ent si nk.) · Klni lllulIl load epecence · 600 hes · Kaxl lIl load cu rent: · 40
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p4 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p4%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p4 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p4 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p4%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p4 (traced).dxf`).
 
 ### Page 5
 
@@ -69,7 +69,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p4 (t
 - **Dots (junctions):** 3
 - **Words (OCR):** 135 in 93 lines: WAAC Ze2X SystaMe · HIACUII JaxiapK · Mjgoe_SWereQ RMT Houie · 4uCe nFovides · 5 gerec channe" · #cilicies · required · Mixing console Inc 0S · [he {tereo Mxino · d35iunment sienes · Ictenuaar npmt · JCCDT
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p5 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p5%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p5 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p5 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p5%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p5 (traced).dxf`).
 
 ### Page 6
 
@@ -78,7 +78,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p5 (t
 - **Outlines:** line 301 rings, 3,031 straight (6,114 mm) / 795 curved (1,188 mm); text 1,931 rings, 15,287 straight (16,912 mm) / 4,288 curved (6,817 mm)
 - **Words (OCR):** 394 in 118 lines: WARD-BEC · STe MS LTC · CIRCUIT DESCRIP TION · M490F STEREO INPUT MODULE · The pr lIIpl 1f · output is · oup · via C7 · on half of the · mhfng tt nua · ATTI. wit the econd half · ATTI used for
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p6 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p6%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p6 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p6 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p6%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p6 (traced).dxf`).
 
 ### Page 7
 
@@ -90,7 +90,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p6 (t
 - **Dots (junctions):** 1
 - **Words (OCR):** 359 in 98 lines: CIRCUIT DESCRI PTION · M490F STEREO NPUT MO DULE · the level of he · he · The III Xill UIl de te cn fro ll ile · nter · po iti · Illow · leve · hl nge · II · dB to 50
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p7 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p7%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p7 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p7 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p7%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p7 (traced).dxf`).
 
 ### Page 8
 
@@ -102,7 +102,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p7 (t
 - **Dots (junctions):** 1
 - **Words (OCR):** 347 in 93 lines: CIRCUIT DESCRIPTION · M'9 0F STEREO NPUT MODULE · nu mber · nd iv idual input fun cti ons govern the statu · the dual fl1p-fl op ZlO. · description of eac input fun ct on · ollows: · In it ia Re et · Whe power is · ia lly applied to he syste ll, th · cOlIlbinatio of CRI · CR11 CRl2 and C38 will pu l
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p8 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p8%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p8 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p8 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p8%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p8 (traced).dxf`).
 
 ### Page 9
 
@@ -113,7 +113,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p8 (t
 - **Closed boxes:** 1
 - **Words (OCR):** 342 in 110 lines: WARO-BEC · YSTEM LT · CIRCU1T DESCR IP TION · M490F STEREO INPUT MODUL · Pi · of P2 is isohted thr" oug diod CR4. When · cenn ted · par al el wi · th · llie ou pu of th · 1I0dules · ovid es
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p9 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p9%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p9 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p9 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p9%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p9 (traced).dxf`).
 
 ### Page 10
 
@@ -124,7 +124,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p9 (t
 - **Closed boxes:** 1
 - **Words (OCR):** 384 in 96 lines: WAFlo- eC · eM · CIRCUIT DESCRIP TION · M490F STEREO INPUT MODUL · This change of state · be bro ugh · bo ut by ny ne of · three different lIethods: · MOllenta ry ope ratio of he CUE wi ch SWIZ · MOllentary grou nd closure of th EXTERNAL CUE · control input at PZ. pin 11. · Ope ration of he
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p10 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p10%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p10 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p10 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p10%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p10 (traced).dxf`).
 
 ### Page 11
 
@@ -135,7 +135,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p10 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 190 in 112 lines: K49QF STEREO NPUT MODULE · DESCRIPTION · HFG PART NUMBER · ATTI Attenuata · connector · 1550 AHJ 5/1 00 · CI · pa~1 tor · 1l · Ke:et · T39084 !5HO OAS · C2
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p11 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p11%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p11 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p11 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p11%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p11 (traced).dxf`).
 
 ### Page 12
 
@@ -146,7 +146,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p11 (
 - **Dots (junctions):** 2
 - **Words (OCR):** 116 in 85 lines: CK YSTE · LTC · PARTS LIST · M4 · STEREO INPUT MOOUL · PART OESCRIPTION · MFG PART NUMBER · C36 · apa~ tor · ufl3S · Kemet · T3 90BI OSM0 5AS
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p12 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p12%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p12 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p12 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p12%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p12 (traced).dxf`).
 
 ### Page 13
 
@@ -158,7 +158,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p12 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 113 in 88 lines: WA RO -SEC · YSTEMS LT · M490F STEREO INPUT MOOUL · PART · OESCRIPTION · FG · MFG PART IlUM8ER · CRI8 · Olode · Mo ro · IN400 · CR19
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p13 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p13%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p13 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p13 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p13%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p13 (traced).dxf`).
 
 ### Page 14
 
@@ -170,7 +170,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p13 (
 - **Words (OCR):** 90 in 69 lines: WAA ·aECK SYSTEMS LTO · illI.L!:.!..ll · M490F STEREO INPUT MOOULE · PART OESCRIPTION · MFG · MFG PART NUMBER · RI' Resl:torlall51 4K7 · Ph!l1 PS · Rl7 RI. · rc · .19 · 020
 - **Title block:** (77, 79)–(253, 426) mm: WAA ·aECK SYSTEMS LTO · illI.L!:.!..ll · M490F STEREO INPUT MOOULE · MFG · RI' Resl:torlall51 4K7 · Ph!l1 PS · rc · 4701( · 1001( · 2201( · 10K · 15K · 47K · 16K · 'OK · Pih er · PT · laW 51 · 620 · P
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p14 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p14%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p14 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p14 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p14%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p14 (traced).dxf`).
 
 ### Page 15
 
@@ -180,7 +180,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p14 (
 - **Closed boxes:** 1
 - **Words (OCR):** 83 in 64 lines: M490F SHRED INPUT MODULE · PART DESCR[PTION · MFG · MFG PART NUMBER · Resl to ":11 51: OK · esa · Ph! l1 ps · 2K4 · R53 · 2K4 · 2K4 · R5S
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p15 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p15%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p15 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p15 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p15%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p15 (traced).dxf`).
 
 ### Page 16
 
@@ -190,7 +190,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p15 (
 - **Closed boxes:** 1
 - **Words (OCR):** 85 in 71 lines: WAFl · YSTE · LTO · PARTS LIST · M490F STEREO INPUT MO DULE · PART DESCRI PTI ON · KFG · MFG PART NUMBER · '86 · Res · ~tor ItW · Ph! li ps
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p16 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p16%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p16 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p16 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p16%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p16 (traced).dxf`).
 
 ### Page 17
 
@@ -201,7 +201,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p16 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 40 in 34 lines: WAAC · SystEMs · PMRIS LUSI · MQDULE · 049mF Sterec T"nT · PART descri?mon · Mj PEL WNB · Resigtor · Phtlfps · Retlicor · 08 · iator
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p17 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p17%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p17 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p17 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p17%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p17 (traced).dxf`).
 
 ### Page 18
 
@@ -212,7 +212,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p17 (
 - **Words (OCR):** 71 in 38 lines: WAR O-B ECK SYSTEM · LTO · PARTS LI ST · M490F STEREO NPUT MO OUl · PART OESCRIPTION · MFG PART HUMBER · Inte9 rated · rcu1t. · 11 n~ar Ha~10n · H30 IAH · Z6 · 17
 - **Title block:** (32, 155)–(198, 226) mm: 7-112 · Channel All · PCB · WBS · WBS · olllile nds the use of ep Ie ceaen pa rt · lIanufacturers fo continued · 111uII
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p18 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p18%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p18 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p18 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p18%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p18 (traced).dxf`).
 
 ### Page 19
 
@@ -223,7 +223,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p18 (
 - **Closed boxes:** 2
 - **Words (OCR):** 80 in 42 lines: /o449OF STEREO INPUT /-,OOULE · COtHROL I<mlBS. CAPS ANO SUTT ONS · OE5C"IIP IO'1 · MFG PART NUMBER · All en"lI lo Kno · (Wh ile) · P31470!1 · Win Knob (Sl lIc · lmll · 023-352 · CliP · la
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p19 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p19%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p19 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p19 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p19%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p19 (traced).dxf`).
 
 ### Page 20
 
@@ -235,7 +235,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p19 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 88 in 32 lines: INTEGRATED C1RCUIT DATA · C040 16 · OUAD BI LATERAL SWITCH · The CD4016 · ua bil at al wi tch whi · utili ze P-c an ne · nd · channel · mpl eme ta ry MO (C/oiDS) · circ uits to provi de · ex eme · hi9h "OFF" resist an
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p20 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p20%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p20 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p20 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p20%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p20 (traced).dxf`).
 
 ### Page 21
 
@@ -247,7 +247,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p20 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 133 in 60 lines: YSTE · L.TO · NTEGRATE CIRCUIT DATA · illI§. · DUAL · FLIP -FLOP WIT CLEAR AND PRESET · The 74 C76J · flip -fl · is · mono it ic CMOS ci rcui · Each lip · flop has ndependent
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p21 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p21%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p21 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p21 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p21%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p21 (traced).dxf`).
 
 ### Page 22
 
@@ -258,7 +258,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p21 (
 - **Closed boxes:** 18; named: INPUTS OUTPUTS CLEAR; OUTPUTS; INPUTS; CLEAR
 - **Words (OCR):** 141 in 62 lines: l'".O · STEMS L.TO · NTEGRAH"D C.IRCUIT DATA · illill · DUA HQNO STABLE HULTI VI BRATOR · The 74C221 ual 1I0 no · bh multiv rato · is · CHO In eg ated · ci cu it · ch Ilu ltlv fbra or futu · ne lJat iv
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p22 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p22%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p22 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p22 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p22%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p22 (traced).dxf`).
 
 ### Page 23
 
@@ -268,7 +268,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p22 (
 - **Closed boxes:** 1
 - **Words (OCR):** 10 in 6 lines: -1~2 CHANNEL AMPLIFI ER · ps · BS · OCTOBER 1983 · tp · ht
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p23 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p23%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p23 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p23 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p23%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p23 (traced).dxf`).
 
 ### Page 24
 
@@ -278,7 +278,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p23 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 191 in 107 lines: WA'::;O · Cl< · TD · _112 CHANNEL AMPLIFIE · DESCRIPTION · ClIl~a<;llor · uF · T3 90 B47 5MOl QAS · cz · uF · ca · 100
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p24 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p24%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p24 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p24 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p24%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p24 (traced).dxf`).
 
 ### Page 25
 
@@ -289,7 +289,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p24 (
 - **Closed boxes:** 2
 - **Words (OCR):** 52 in 42 lines: 7-112 CHANNEL AMPLIFIEH · DESCRIPTION · C:!6 · Ce;:lllc: lor · 22 uF/25 · 22 uF /25 · C:!8 · 22 uF /25 · CR' · Diode · Zen"r · IN.7.:!
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p25 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p25%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p25 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p25 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p25%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p25 (traced).dxf`).
 
 ### Page 26
 
@@ -300,7 +300,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p25 (
 - **Dots (junctions):** 1
 - **Words (OCR):** 50 in 44 lines: WAF.O-aEC · YS · "'tS LTC · 7_112 CHANNEL AMPLl · MF · PAR NUMBiO.FI · 22K · R.slsto,- · 4\'1 SI · Philips · SK · nz
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p26 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p26%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p26 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p26 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p26%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p26 (traced).dxf`).
 
 ### Page 27
 
@@ -310,7 +310,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p26 (
 - **Circles and arcs:** 1 circles, 0 arcs; largest r 2.1 @ (109.4, 335.7)
 - **Words (OCR):** 71 in 44 lines: A>=iD · EC · L'C · 112 CHANNSL · MPLlFIS~ · MFG PA RT NUMSER · es · Resi: IO,. 1!4W · Ph il ip · R58 · ess · 1/2'W
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p27 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p27%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p27 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p27 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p27%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p27 (traced).dxf`).
 
 ### Page 28
 
@@ -322,7 +322,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p27 (
 - **Dots (junctions):** 10
 - **Words (OCR):** 329 in 166 lines: was · .....Of · SENS IV IT con ro · dju stab le · ve · 11.135 · ro · Prov ides · nq · on nuOU5 · fo · I!HPUT SELECTOR
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p28 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p28%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p28 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p28 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p28%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p28 (traced).dxf`).
 
 ### Page 29
 
@@ -336,7 +336,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p28 (
 - **Title block:** (287, 1)–(432, 81) mm: 2/78 · REDRAWN · .-&13 · MACHINE CONTROLS REVISED · ...l:fB · 2/78 · ISSUE DATE · REVISION · APP. · (\NBS] WARD-BECK SYSTEMS · ps · BS · DRN. GEB · M490F · ENG.G EB 2/78 · STEREO INPUT MODULE · tp · C
 - **Wiring (first pass):** 183 connected wire groups from 732 runs; labelled ends: 59 mm → P1, P2; 30 mm → ON; 27 mm → SERT; 20 mm → P1; 11 mm → P2
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p29 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p29%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p29 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p29 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p29%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p29 (traced).dxf`).
 
 ### Page 30
 
@@ -349,7 +349,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p29 (
 - **Words (OCR):** 156 in 118 lines: R42 · R5 · PC · 112. · E.4 · E3 · I4 · e.s · 5K · Jl3 · l2« · 31"n
 - **Title block:** (357, 3)–(379, 19) mm: ht 1111 · MI.. DAN. · i:'B (He .Gn · Gn · CoE6 · CKD. · Go · APP. · caEB · Jt"p
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p30 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p30%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p30 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p30 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p30%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p30 (traced).dxf`).
 
 ### Page 31
 
@@ -361,7 +361,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p30 (
 - **Dots (junctions):** 14
 - **Words (OCR):** 222 in 140 lines: g/f: · .Li.1r · ~...!!1t · .!!it · lP. · was · wa 043 · R"o · ~~jl~ · OO · R10 · L5~:
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p31 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p31%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p31 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p31 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p31%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p31 (traced).dxf`).
 
 ### Page 32
 
@@ -372,7 +372,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p31 (
 - **Words (OCR):** 208 in 117 lines: P1 · P2 · PGM · OU · lE FT · NPUT · lEFT · INPUT · lEFT · PGM · OUT, lEFT · INPUT
 - **Title block:** (287, 2)–(432, 68) mm: ISSUE · DATE · REVISION · lAPP. · (VVE3S] WARe-BECK SYSTEMS · ps · BS · DRN. · M490F · ENG. · 2./78 · STEREO INPUT MODULE · CKD.<:K~ · CONNECTOR · tp REAR VIEW · ht · APP. · SCALE · el 490-04-007 · IS
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p32 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p32%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p32 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p32 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p32%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p32 (traced).dxf`).
 
 ### Page 33
 
@@ -387,7 +387,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p32 (
 - **Title block:** (349, 4)–(432, 32) mm: 1SS4.E olln · VISION · (VV8S] WARD-BECK SYSTEMS · tp · ht · ORf\I. · ENG.Gu'11 · 112 · CKD."'i"""-"" · CHANNEl AMPLIFIER · SCHEMA11 · SUf
 - **Wiring (first pass):** 103 connected wire groups from 854 runs, 2 dotted junctions; labelled ends: 282 mm → -11, Io, I2.; 204 mm → C'3, ".'/10; 168 mm → R3I, R32, 1M; 130 mm → +24; 130 mm → R24, 22, .20., -el
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p33 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p33%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p33 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p33 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p33%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p33 (traced).dxf`).
 
 ### Page 34
 
@@ -398,7 +398,7 @@ Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p33 (
 - **Closed boxes:** 1
 - **Words (OCR):** 48 in 36 lines: E1 · E8 · IO · Ell · lOG. ES · 7-112 · (VVBS] · CANADA · ll · I~O~C-'_ · C..33 E.!!..5 · C3S 22 125
 
-Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p34 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p34%20(traced).json) (the CAD file: `1983 - M490F - Stereo Input Module p34 (traced).dxf`).
+Every curve, box, word and wire group: [1983 - M490F - Stereo Input Module p34 (traced).json](../MANUALS/1983%20-%20M490F%20-%20Stereo%20Input%20Module%20p34%20%28traced%29.json) (the CAD file: `1983 - M490F - Stereo Input Module p34 (traced).dxf`).
 
 ## Full text
 

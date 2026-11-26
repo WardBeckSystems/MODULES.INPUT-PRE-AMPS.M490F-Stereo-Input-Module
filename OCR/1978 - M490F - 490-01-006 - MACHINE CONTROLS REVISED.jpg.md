@@ -23,7 +23,7 @@ Wiki page: [M490F](../../../../PAGES/M490F.md)
 - **Title block:** (286, 1)–(432, 81) mm: XB · 2 / 78 · REDRAWN · 2/78 MACHINE CONTROLS REVISED · 4B · ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN: GEB · M49oF · ENG.GEB 2/78 · STEREO INPUT MODULE · cKD Qsl · FUNCTIONAL DIAGRAM 
 - **Wiring (first pass):** 181 connected wire groups from 574 runs; labelled ends: 150 mm → (_I5dB), PRE /post, CUE; 142 mm → CUE; 92 mm → PGmi, CUE, CTL, LoGic; 80 mm → LEFT, RIGHT, INPUT; 75 mm → ASSIGN
 
-Every curve, box, word and wire group: [1978 - M490F - 490-01-006 - MACHINE CONTROLS REVISED (traced).json](../SCHEMATICS/1978%20-%20M490F%20-%20490-01-006%20-%20MACHINE%20CONTROLS%20REVISED%20(traced).json) (the CAD file: `1978 - M490F - 490-01-006 - MACHINE CONTROLS REVISED (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490F - 490-01-006 - MACHINE CONTROLS REVISED (traced).json](../SCHEMATICS/1978%20-%20M490F%20-%20490-01-006%20-%20MACHINE%20CONTROLS%20REVISED%20%28traced%29.json) (the CAD file: `1978 - M490F - 490-01-006 - MACHINE CONTROLS REVISED (traced).dxf`).
 
 ## Full text
 

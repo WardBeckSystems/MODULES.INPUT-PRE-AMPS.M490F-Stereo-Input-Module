@@ -24,7 +24,7 @@ Wiki page: [M490F](../../../../PAGES/M490F.md)
 - **Title block:** (361, 20)–(432, 36) mm: WBS · WARD-DeCK SYSTEMS · M490
 - **Wiring (first pass):** 248 connected wire groups from 2,127 runs, 4 dotted junctions; labelled ends: 779 mm → 0izs; 320 mm → Ruys, 2k2; 288 mm → Ts; 276 mm → WBS, 2022, FRCT, 2179; 244 mm → 238, 6-0/6, RA5, Jcok
 
-Every curve, box, word and wire group: [1978 - M490F - 490-02-007 - STEREO INPUT MODULE (traced).json](../SCHEMATICS/1978%20-%20M490F%20-%20490-02-007%20-%20STEREO%20INPUT%20MODULE%20(traced).json) (the CAD file: `1978 - M490F - 490-02-007 - STEREO INPUT MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490F - 490-02-007 - STEREO INPUT MODULE (traced).json](../SCHEMATICS/1978%20-%20M490F%20-%20490-02-007%20-%20STEREO%20INPUT%20MODULE%20%28traced%29.json) (the CAD file: `1978 - M490F - 490-02-007 - STEREO INPUT MODULE (traced).dxf`).
 
 ## Full text
 

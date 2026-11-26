@@ -20,7 +20,7 @@ Wiki page: [M490F](../../../../PAGES/M490F.md)
 - **Words (OCR):** 166 in 112 lines: PGM OUT, · LEFT · INPUT · LEFT · INPUT · LEFT · PGM · Out , LEFT · INPUT Right · RIGHT · PGM · OUT , RiGHT
 - **Title block:** (286, 0)–(432, 69) mm: ISSUE DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN_ · ENG_ · (78 · M90F · STEREO · inPut MODULE · CKD · Rul · CONNECTOR · REAR VIEW · APP · SCALE · 490-04-007 · ISSUE
 
-Every curve, box, word and wire group: [1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1978%20-%20M490F%20-%20490-04-007%20-%20CONNECTOR%20REAR%20VIEW%20(traced).json) (the CAD file: `1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW (traced).json](../PINOUTS/1978%20-%20M490F%20-%20490-04-007%20-%20CONNECTOR%20REAR%20VIEW%20%28traced%29.json) (the CAD file: `1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW (traced).dxf`).
 
 ## Full text
 

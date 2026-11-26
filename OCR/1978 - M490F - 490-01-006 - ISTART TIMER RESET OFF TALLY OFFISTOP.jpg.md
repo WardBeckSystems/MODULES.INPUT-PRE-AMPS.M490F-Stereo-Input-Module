@@ -27,7 +27,7 @@ Wiki page: [M490F](../../../../PAGES/M490F.md)
 - **Title block:** (289, 9)–(432, 90) mm: 2/78 · REDRAWN · 2/78 MACHINE CONTROLS REVISED · ISSUE DATE · REVISION · WBS WARD-BECK SYSTEMS · DRN_ GEB · M490F · ENG GEB 2 /78 · STEREO INPUT MODULE · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 490
 - **Wiring (first pass):** 196 connected wire groups from 592 runs; labelled ends: 143 mm → CUE; 142 mm → (_I5dB), PRE /post, CUE; 87 mm → BAL; 81 mm → LEFT, RIGHT, INPUT; 81 mm → PGmi, CUE, CTL, Logic
 
-Every curve, box, word and wire group: [1978 - M490F - 490-01-006 - ISTART TIMER RESET OFF TALLY OFFISTOP (traced).json](../SCHEMATICS/1978%20-%20M490F%20-%20490-01-006%20-%20ISTART%20TIMER%20RESET%20OFF%20TALLY%20OFFISTOP%20(traced).json) (the CAD file: `1978 - M490F - 490-01-006 - ISTART TIMER RESET OFF TALLY OFFISTOP (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490F - 490-01-006 - ISTART TIMER RESET OFF TALLY OFFISTOP (traced).json](../SCHEMATICS/1978%20-%20M490F%20-%20490-01-006%20-%20ISTART%20TIMER%20RESET%20OFF%20TALLY%20OFFISTOP%20%28traced%29.json) (the CAD file: `1978 - M490F - 490-01-006 - ISTART TIMER RESET OFF TALLY OFFISTOP (traced).dxf`).
 
 ## Full text
 

@@ -24,7 +24,7 @@ Wiki page: [M490F](../../../../PAGES/M490F.md)
 - **Title block:** (345, 20)–(409, 37) mm: REvIsIOH · WBS WAAD-Beck sy9TeS · 7-112
 - **Wiring (first pass):** 110 connected wire groups from 917 runs, 2 dotted junctions; labelled ends: 362 mm → R23, 22k, R2+, Rze; 280 mm → Ris, 4K7, 4/18; 137 mm → E3; 122 mm → A4 4, c23, 1/35, R4s; 96 mm → 92, Alio, iek, Lu3oi
 
-Every curve, box, word and wire group: [1978 - M490F - 7-112-02-001 - CHANNEL AMPLIFIER SCHEMATIC ISSUL (traced).json](../SCHEMATICS/1978%20-%20M490F%20-%207-112-02-001%20-%20CHANNEL%20AMPLIFIER%20SCHEMATIC%20ISSUL%20(traced).json) (the CAD file: `1978 - M490F - 7-112-02-001 - CHANNEL AMPLIFIER SCHEMATIC ISSUL (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490F - 7-112-02-001 - CHANNEL AMPLIFIER SCHEMATIC ISSUL (traced).json](../SCHEMATICS/1978%20-%20M490F%20-%207-112-02-001%20-%20CHANNEL%20AMPLIFIER%20SCHEMATIC%20ISSUL%20%28traced%29.json) (the CAD file: `1978 - M490F - 7-112-02-001 - CHANNEL AMPLIFIER SCHEMATIC ISSUL (traced).dxf`).
 
 ## Full text
 

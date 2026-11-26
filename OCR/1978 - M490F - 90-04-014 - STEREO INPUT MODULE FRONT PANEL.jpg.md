@@ -22,7 +22,7 @@ Wiki page: [M490F](../../../../PAGES/M490F.md)
 - **Words (OCR):** 95 in 72 lines: WBS · 4490F · cont nuou: · eve | contrc · 10   dB · iapuT · Sicc se lection eitner · nou · semsitivity control conttoi runge · paograh · Tont · channe
 - **Title block:** (168, 22)–(432, 308) mm: WBS · 4490F · cont nuou: · eve | contrc · 10   dB · semsitivity control conttoi runge · riont channe| · switcn · nizing · Lpprooriata · PGh tereo · BALARCE control · rtereo channa · R56/57 : Control ·
 
-Every curve, box, word and wire group: [1978 - M490F - 90-04-014 - STEREO INPUT MODULE FRONT PANEL (traced).json](../MECHANICAL/1978%20-%20M490F%20-%2090-04-014%20-%20STEREO%20INPUT%20MODULE%20FRONT%20PANEL%20(traced).json) (the CAD file: `1978 - M490F - 90-04-014 - STEREO INPUT MODULE FRONT PANEL (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490F - 90-04-014 - STEREO INPUT MODULE FRONT PANEL (traced).json](../MECHANICAL/1978%20-%20M490F%20-%2090-04-014%20-%20STEREO%20INPUT%20MODULE%20FRONT%20PANEL%20%28traced%29.json) (the CAD file: `1978 - M490F - 90-04-014 - STEREO INPUT MODULE FRONT PANEL (traced).dxf`).
 
 ## Full text
 

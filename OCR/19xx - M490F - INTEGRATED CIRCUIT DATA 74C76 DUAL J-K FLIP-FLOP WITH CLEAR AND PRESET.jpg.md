@@ -18,6 +18,19 @@ Typed IC data sheet page for the 74C76 with bleed-through from the reverse side.
 - **Size:** 403,458 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 320 × 432 mm, 1145 × 1544 px traced (0.280 mm/px)
+- **Ink extent:** 6–303 mm across, 0–425 mm up
+- **Outlines:** line 139 rings, 2,868 straight (8,691 mm) / 365 curved (734 mm); text 987 rings, 6,740 straight (8,837 mm) / 2,101 curved (3,891 mm)
+- **Centre lines:** 5,089 paths (158 closed); straight 10,586 mm, curved 107 mm; horizontal 3,323 mm, vertical 3,471 mm, diagonal 3,792 mm
+- **Circles and arcs:** 8 circles, 14 arcs; largest r 2.4 @ (168.7, 154.6), r 1.9 @ (135.8, 164.9), r 1.7 @ (168.4, 155.0), r 1.7 @ (168.3, 235.0)
+- **Closed boxes:** 21; named: CLEAR CLOCK PRESET; PRESET CLOCK CLEAR; Qn Qn Clear Preset Qn kqn; tn tn+1 Qn Qn; Clear; tn; tn+1; Preset; Qn; Qn Qn
+- **Words (OCR):** 142 in 94 lines: WAAD-EECX SYStems LTD_ · INTEGRATED CIRCUIT · DATA · 14016 · DUAL J-K FLIP-FLOP WITH CLEAR AND PRESET · The · 74c76 J-K · flip-flop is monolithic · CMOS circuit · Each · flip- · flop has
+- **Wiring (first pass):** 43 connected wire groups from 240 runs; labelled ends: 470 mm → Qn, Qn kqn; 318 mm → Note, bit; 300 mm → 13, GND, 12; 173 mm → DUAL, PRESET; 125 mm → CLOCK, PRESET
+
+Every curve, box, word and wire group: [19xx - M490F - INTEGRATED CIRCUIT DATA 74C76 DUAL J-K FLIP-FLOP WITH CLEAR AND PRESET (traced).json](../SCHEMATICS/19xx%20-%20M490F%20-%20INTEGRATED%20CIRCUIT%20DATA%2074C76%20DUAL%20J-K%20FLIP-FLOP%20WITH%20CLEAR%20AND%20PRESET%20%28traced%29.json) (the CAD file: `19xx - M490F - INTEGRATED CIRCUIT DATA 74C76 DUAL J-K FLIP-FLOP WITH CLEAR AND PRESET (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 9 words corrected)

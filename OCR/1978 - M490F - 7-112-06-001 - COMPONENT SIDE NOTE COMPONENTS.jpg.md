@@ -19,7 +19,7 @@ Wiki page: [M490F](../../../../PAGES/M490F.md)
 - **Circles and arcs:** 10 circles, 0 arcs; largest r 7.1 @ (219.5, 179.9), r 3.6 @ (64.0, 125.2), r 3.6 @ (218.1, 126.1), r 3.5 @ (216.8, 286.4)
 - **Words (OCR):** 137 in 111 lines: E7 E8 · Eio E9 Eii E14 E6 E5 · 0 0 @ 0 0 0 7-112 · CANADA · WBS · 0 e3 · Rti 2k2 41 Joop De4 0ei3 · E12 · Rto 2k2 · 69a20 · 47 · Rib
 
-Every curve, box, word and wire group: [1978 - M490F - 7-112-06-001 - COMPONENT SIDE NOTE COMPONENTS (traced).json](../SCHEMATICS/1978%20-%20M490F%20-%207-112-06-001%20-%20COMPONENT%20SIDE%20NOTE%20COMPONENTS%20(traced).json) (the CAD file: `1978 - M490F - 7-112-06-001 - COMPONENT SIDE NOTE COMPONENTS (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490F - 7-112-06-001 - COMPONENT SIDE NOTE COMPONENTS (traced).json](../SCHEMATICS/1978%20-%20M490F%20-%207-112-06-001%20-%20COMPONENT%20SIDE%20NOTE%20COMPONENTS%20%28traced%29.json) (the CAD file: `1978 - M490F - 7-112-06-001 - COMPONENT SIDE NOTE COMPONENTS (traced).dxf`).
 
 ## Full text
 

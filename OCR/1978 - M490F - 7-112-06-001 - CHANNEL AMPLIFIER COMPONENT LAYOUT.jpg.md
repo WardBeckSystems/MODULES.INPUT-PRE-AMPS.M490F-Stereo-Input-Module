@@ -21,7 +21,7 @@ Wiki page: [M490F](../../../../PAGES/M490F.md)
 - **Words (OCR):** 159 in 136 lines: E7 · E8 EI0 E9 Eii E14 E6 E5 · 0 0 0 0 0 0 7-112 · CANADA · WBS · E12 · R+i 2k2 · Ric JEk · ~Rto 2k2 · 0=4 41217: 7/10 · E13 · ~C2b L20
 - **Title block:** (34, 3)–(432, 339) mm: CANADA · WBS · E12 · R+i 2k2 · Ric JEk · ~Rto 2k2 · 0=4 41217: 7/10 · E13 · ~C2b L20 · ~cio:Tp Cib · ~R53 · ~R2g 242 · 23 · cze-W/3s 26 · Illmzoi · ~R2b · 22ok · 47ok · Jeok · Im3oi · R33 328 · ~833 3
 
-Every curve, box, word and wire group: [1978 - M490F - 7-112-06-001 - CHANNEL AMPLIFIER COMPONENT LAYOUT (traced).json](../SCHEMATICS/1978%20-%20M490F%20-%207-112-06-001%20-%20CHANNEL%20AMPLIFIER%20COMPONENT%20LAYOUT%20(traced).json) (the CAD file: `1978 - M490F - 7-112-06-001 - CHANNEL AMPLIFIER COMPONENT LAYOUT (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490F - 7-112-06-001 - CHANNEL AMPLIFIER COMPONENT LAYOUT (traced).json](../SCHEMATICS/1978%20-%20M490F%20-%207-112-06-001%20-%20CHANNEL%20AMPLIFIER%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1978 - M490F - 7-112-06-001 - CHANNEL AMPLIFIER COMPONENT LAYOUT (traced).dxf`).
 
 ## Full text
 
