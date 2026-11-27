@@ -3,701 +3,1402 @@
  "connector": "RTO-144",
  "type": "M490F - Stereo Input Module",
  "series": null,
- "contacts": "22 contacts, 4 contacts (J2), 4 contacts (P1), 22 contacts (P2), 13 contacts (P7)",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 22,
+   "rows": "1-22 single row",
+   "view": "rear",
+   "part": null
+  },
+  {
+   "name": "P2",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+   "view": "rear",
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M490F/M490F.rto144.json",
+  "sheet_agrees": "15 of 15"
+ },
  "pins": [
   {
+   "connector": "P1",
    "pin": "1",
-   "signal": "LEFT PGRM 1",
-   "kind": "audio",
-   "pair": "A3",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490F/M490F.rto144.json",
-   "page": 1
+   "ref": "P1-1",
+   "also": null,
+   "same_row": null,
+   "signal": "PGM 1 OUT LEFT",
+   "kind": "out",
+   "port": "PGM 1 OUT LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Left PGRM 1 +",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
-   "pin": "1",
-   "signal": "MIC IN A",
-   "kind": "in",
-   "pair": "A1",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490F/M490F.rto144.json",
-   "page": 1
-  },
-  {
+   "connector": "P1",
    "pin": "2",
-   "signal": "PGM",
-   "kind": "audio",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "ref": "P1-2",
+   "also": null,
+   "same_row": null,
+   "signal": "PGM 1 OUT LEFT",
+   "kind": "out",
+   "port": "PGM 1 OUT LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Left PGRM 1 -",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
-   "pin": "2",
-   "signal": "LEFT PGRM 1",
-   "kind": "audio",
-   "pair": "A3",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490F/M490F.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "2",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1978 - M490F - 023.jpg",
-   "page": 1
-  },
-  {
+   "connector": "P1",
    "pin": "3",
-   "signal": "PGM",
-   "kind": "audio",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "ref": "P1-3",
+   "also": null,
+   "same_row": null,
+   "signal": "PGM 1 OUT RIGHT",
+   "kind": "out",
+   "port": "PGM 1 OUT RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Right PGRM 1 +",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
-   "pin": "3",
-   "signal": "RIGHT PGRM 1",
-   "kind": "audio",
-   "pair": "A4",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490F/M490F.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "3",
-   "signal": "MIC IN B",
-   "kind": "in",
-   "pair": "A2",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490F/M490F.rto144.json",
-   "page": 1
-  },
-  {
+   "connector": "P1",
    "pin": "4",
-   "signal": "PGM",
-   "kind": "audio",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "ref": "P1-4",
+   "also": null,
+   "same_row": null,
+   "signal": "PGM 1 OUT RIGHT",
+   "kind": "out",
+   "port": "PGM 1 OUT RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Right PGRM 1 -",
+    "kind": "other",
+    "agrees": true
+   }
   },
   {
-   "pin": "4",
-   "signal": "RIGHT PGRM 1",
-   "kind": "audio",
-   "pair": "A4",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490F/M490F.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "4",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1978 - M490F - 023.jpg",
-   "page": 1
-  },
-  {
+   "connector": "P1",
    "pin": "5",
-   "signal": "PGM 2 OUT , LEFT",
+   "ref": "P1-5",
+   "also": null,
+   "same_row": null,
+   "signal": "PGM 2 OUT LEFT",
    "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "port": "PGM 2 OUT LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "5",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
-  },
-  {
+   "connector": "P1",
    "pin": "6",
-   "signal": "PGM 2 OUT, LEFT",
+   "ref": "P1-6",
+   "also": null,
+   "same_row": null,
+   "signal": "PGM 2 OUT LEFT",
    "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "port": "PGM 2 OUT LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "6",
-   "signal": "INSERT SEND",
-   "kind": "out",
-   "pair": "B1",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490F/M490F.rto144.json",
-   "page": 1
-  },
-  {
+   "connector": "P1",
    "pin": "7",
-   "signal": "PGM 2 OU T, RIGHT",
-   "kind": "audio",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
-  },
-  {
-   "pin": "7",
-   "signal": "INSERT RETURN",
-   "kind": "in",
-   "pair": "B2",
-   "polarity": "+",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490F/M490F.rto144.json",
-   "page": 1
-  },
-  {
-   "pin": "8",
-   "signal": "PGM 2 OUT, RIGHT",
+   "ref": "P1-7",
+   "also": null,
+   "same_row": null,
+   "signal": "PGM 2 OUT RIGHT",
    "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "port": "PGM 2 OUT RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "8",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
+   "ref": "P1-8",
+   "also": null,
+   "same_row": null,
+   "signal": "PGM 2 OUT RIGHT",
+   "kind": "out",
+   "port": "PGM 2 OUT RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "9",
+   "ref": "P1-9",
+   "also": null,
+   "same_row": null,
    "signal": "SHIELD",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "9",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
-  },
-  {
+   "connector": "P1",
    "pin": "10",
-   "signal": "NC",
+   "ref": "P1-10",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
    "kind": "nc",
-   "pair": null,
+   "port": null,
    "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "11",
-   "signal": "AUX OU T, LEFT",
-   "kind": "other",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
-  },
-  {
-   "pin": "11",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
-  },
-  {
-   "pin": "12",
-   "signal": "AUX OUT, LEFT",
+   "ref": "P1-11",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX OUT LEFT",
    "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "port": "AUX OUT LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "12",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
-  },
-  {
-   "pin": "13",
-   "signal": "AUX OUT, RIGHT",
+   "ref": "P1-12",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX OUT LEFT",
    "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "port": "AUX OUT LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "13",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
+   "ref": "P1-13",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX OUT RIGHT",
+   "kind": "out",
+   "port": "AUX OUT RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "13",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1978 - M490F - Stereo Input Module.pdf",
-   "page": 30
-  },
-  {
+   "connector": "P1",
    "pin": "14",
-   "signal": "AUX OUT, RIGHT",
+   "ref": "P1-14",
+   "also": null,
+   "same_row": null,
+   "signal": "AUX OUT RIGHT",
    "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "port": "AUX OUT RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "15",
-   "signal": "CUE OUT, LEFT",
+   "ref": "P1-15",
+   "also": null,
+   "same_row": null,
+   "signal": "CUE OUT LEFT",
    "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "port": "CUE OUT LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "16",
-   "signal": "CUE OUT, LEFT",
+   "ref": "P1-16",
+   "also": null,
+   "same_row": null,
+   "signal": "CUE OUT LEFT",
    "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "port": "CUE OUT LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P1",
    "pin": "17",
-   "signal": "CUE OUT, RIGHT",
+   "ref": "P1-17",
+   "also": null,
+   "same_row": null,
+   "signal": "CUE OUT RIGHT",
    "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "port": "CUE OUT RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "17",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
-  },
-  {
+   "connector": "P1",
    "pin": "18",
-   "signal": "CUE OUT, RIGHT",
+   "ref": "P1-18",
+   "also": null,
+   "same_row": null,
+   "signal": "CUE OUT RIGHT",
    "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "port": "CUE OUT RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "18",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
-  },
-  {
+   "connector": "P1",
    "pin": "19",
-   "signal": "NC",
+   "ref": "P1-19",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
    "kind": "nc",
-   "pair": null,
+   "port": null,
    "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "19",
-   "signal": "-25 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490F/M490F.rto144.json",
-   "page": 1
-  },
-  {
+   "connector": "P1",
    "pin": "20",
-   "signal": "NC",
+   "ref": "P1-20",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
    "kind": "nc",
-   "pair": null,
+   "port": null,
    "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "20",
-   "signal": "COMMON",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490F/M490F.rto144.json",
-   "page": 1
-  },
-  {
+   "connector": "P1",
    "pin": "21",
-   "signal": "NC",
+   "ref": "P1-21",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
    "kind": "nc",
-   "pair": null,
+   "port": null,
    "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "21",
-   "signal": "+25 V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490F/M490F.rto144.json",
-   "page": 1
-  },
-  {
+   "connector": "P1",
    "pin": "22",
+   "ref": "P1-22",
+   "also": null,
+   "same_row": null,
    "signal": "CHASSIS",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
-   "confidence": "high",
-   "read_from": "table",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-   "page": 32
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P2",
+   "pin": "1",
+   "ref": "P2-1",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT B LEFT",
+   "kind": "in",
+   "port": "INPUT B LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Mic in A +",
+    "kind": "in",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P2",
+   "pin": "2",
+   "ref": "P2-2",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT B RIGHT",
+   "kind": "in",
+   "port": "INPUT B RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "3",
+   "ref": "P2-3",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT A LEFT",
+   "kind": "in",
+   "port": "INPUT A LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Mic in B +",
+    "kind": "in",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P2",
+   "pin": "4",
+   "ref": "P2-4",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT A RIGHT",
+   "kind": "in",
+   "port": "INPUT A RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "5",
+   "ref": "P2-5",
+   "also": null,
+   "same_row": null,
+   "signal": "INSERT SEND LEFT",
+   "kind": "insert_send",
+   "port": "INSERT SEND LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "6",
+   "ref": "P2-6",
+   "also": null,
+   "same_row": null,
+   "signal": "INSERT SEND RIGHT",
+   "kind": "insert_send",
+   "port": "INSERT SEND RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Insert Send +",
+    "kind": "out",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P2",
+   "pin": "7",
+   "ref": "P2-7",
+   "also": null,
+   "same_row": null,
+   "signal": "INSERT RETURN LEFT",
+   "kind": "insert_return",
+   "port": "INSERT RETURN LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Insert Return +",
+    "kind": "in",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P2",
+   "pin": "8",
+   "ref": "P2-8",
+   "also": null,
+   "same_row": null,
+   "signal": "INSERT RETURN RIGHT",
+   "kind": "insert_return",
+   "port": "INSERT RETURN RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "9",
+   "ref": "P2-9",
+   "also": null,
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "10",
+   "ref": "P2-10",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT A CTL",
+   "kind": "control_in",
+   "port": "INPUT A CTL",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "11",
+   "ref": "P2-11",
+   "also": null,
+   "same_row": null,
+   "signal": "EXT CUE",
+   "kind": "control_in",
+   "port": "EXT CUE",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "12",
+   "ref": "P2-12",
+   "also": null,
+   "same_row": null,
+   "signal": "EXT CH OFF",
+   "kind": "control_in",
+   "port": "EXT CH OFF",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "13",
+   "ref": "P2-13",
+   "also": null,
+   "same_row": null,
+   "signal": "CH A CTL OUT",
+   "kind": "control_out",
+   "port": "CH A CTL OUT",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "14",
+   "ref": "P2-14",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "15",
+   "ref": "P2-15",
+   "also": null,
+   "same_row": null,
+   "signal": "ON CTL",
+   "kind": "control_in",
+   "port": "ON CTL",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "16",
+   "ref": "P2-16",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "17",
+   "ref": "P2-17",
+   "also": null,
+   "same_row": null,
+   "signal": "OFF CTL",
+   "kind": "control_in",
+   "port": "OFF CTL",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "18",
+   "ref": "P2-18",
+   "also": null,
+   "same_row": null,
+   "signal": "OFF TALLY",
+   "kind": "control_out",
+   "port": "OFF TALLY",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "19",
+   "ref": "P2-19",
+   "also": null,
+   "same_row": null,
+   "signal": "-25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VEE-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P2",
+   "pin": "20",
+   "ref": "P2-20",
+   "also": null,
+   "same_row": null,
+   "signal": "25 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P2",
+   "pin": "21",
+   "ref": "P2-21",
+   "also": null,
+   "same_row": null,
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
+  },
+  {
+   "connector": "P2",
    "pin": "22",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
+   "ref": "P2-22",
+   "also": null,
+   "same_row": null,
+   "signal": "CONTROL COMMON",
+   "kind": "ground",
+   "port": null,
    "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P2",
    "pin": "A",
-   "signal": "MIC IN A",
+   "ref": "P2-A",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT B LEFT",
    "kind": "in",
-   "pair": "A1",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490F/M490F.rto144.json",
-   "page": 1
+   "port": "INPUT B LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Mic in A -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P2",
+   "pin": "B",
+   "ref": "P2-B",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT B RIGHT",
+   "kind": "in",
+   "port": "INPUT B RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
    "pin": "C",
-   "signal": "MIC IN B",
+   "ref": "P2-C",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT A LEFT",
    "kind": "in",
-   "pair": "A2",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490F/M490F.rto144.json",
-   "page": 1
+   "port": "INPUT A LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Mic in B -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P2",
    "pin": "D",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1978 - M490F - Stereo Input Module.pdf",
-   "page": 30
+   "ref": "P2-D",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT A RIGHT",
+   "kind": "in",
+   "port": "INPUT A RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "D",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - STEREO INPUT MODULE.jpg",
-   "page": 1
-  },
-  {
+   "connector": "P2",
    "pin": "E",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
+   "ref": "P2-E",
+   "also": null,
+   "same_row": null,
+   "signal": "INSERT SEND LEFT",
+   "kind": "insert_send",
+   "port": "INSERT SEND LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P2",
    "pin": "F",
-   "signal": "INSERT SEND",
-   "kind": "out",
-   "pair": "B1",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490F/M490F.rto144.json",
-   "page": 1
+   "ref": "P2-F",
+   "also": null,
+   "same_row": null,
+   "signal": "INSERT SEND RIGHT",
+   "kind": "insert_send",
+   "port": "INSERT SEND RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Insert Send -",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P2",
    "pin": "H",
-   "signal": "INSERT RETURN",
-   "kind": "in",
-   "pair": "B2",
-   "polarity": "-",
-   "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M490F/M490F.rto144.json",
-   "page": 1
+   "ref": "P2-H",
+   "also": null,
+   "same_row": null,
+   "signal": "INSERT RETURN LEFT",
+   "kind": "insert_return",
+   "port": "INSERT RETURN LEFT",
+   "polarity": "L",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Insert Return -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P2",
    "pin": "J",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
+   "ref": "P2-J",
+   "also": null,
+   "same_row": null,
+   "signal": "INSERT RETURN RIGHT",
+   "kind": "insert_return",
+   "port": "INSERT RETURN RIGHT",
+   "polarity": "R",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P2",
+   "pin": "K",
+   "ref": "P2-K",
+   "also": null,
+   "same_row": null,
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield",
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
    "pin": "L",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
+   "ref": "P2-L",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT B CTL",
+   "kind": "control_in",
+   "port": "INPUT B CTL",
    "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P2",
    "pin": "M",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
+   "ref": "P2-M",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT CTL COMMON",
+   "kind": "ground",
+   "port": null,
    "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P2",
    "pin": "N",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
+   "ref": "P2-N",
+   "also": null,
+   "same_row": null,
+   "signal": "EXT CH ON",
+   "kind": "control_in",
+   "port": "EXT CH ON",
    "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P2",
+   "pin": "P",
+   "ref": "P2-P",
+   "also": null,
+   "same_row": null,
+   "signal": "CH B CTL OUT",
+   "kind": "control_out",
+   "port": "CH B CTL OUT",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
    "pin": "R",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
+   "ref": "P2-R",
+   "also": null,
+   "same_row": null,
+   "signal": "TIMER RESET",
+   "kind": "control_out",
+   "port": "TIMER RESET",
    "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P2",
+   "pin": "S",
+   "ref": "P2-S",
+   "also": null,
+   "same_row": null,
+   "signal": "ON CTL",
+   "kind": "control_in",
+   "port": "ON CTL",
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "T",
+   "ref": "P2-T",
+   "also": null,
+   "same_row": null,
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
    "pin": "U",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
+   "ref": "P2-U",
+   "also": null,
+   "same_row": null,
+   "signal": "OFF CTL",
+   "kind": "control_in",
+   "port": "OFF CTL",
    "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
+   "connector": "P2",
    "pin": "V",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
+   "ref": "P2-V",
+   "also": null,
+   "same_row": null,
+   "signal": "OFF TALLY",
+   "kind": "control_out",
+   "port": "OFF TALLY",
    "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
   },
   {
-   "pin": "X",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
+   "connector": "P2",
+   "pin": "W",
+   "ref": "P2-W",
+   "also": null,
+   "same_row": null,
+   "signal": "-25 V",
+   "kind": "power",
+   "port": null,
    "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-   "page": 1
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "X",
+   "ref": "P2-X",
+   "also": null,
+   "same_row": null,
+   "signal": "25 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Y",
+   "ref": "P2-Y",
+   "also": null,
+   "same_row": null,
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Z",
+   "ref": "P2-Z",
+   "also": null,
+   "same_row": null,
+   "signal": "CONTROL COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": [
+    "M490F/PINOUTS/1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "PGM 1 OUT LEFT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-1",
+    "b": "P1-2"
+   }
+  },
+  {
+   "name": "PGM 1 OUT RIGHT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-3",
+    "b": "P1-4"
+   }
+  },
+  {
+   "name": "PGM 2 OUT LEFT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-5",
+    "b": "P1-6"
+   }
+  },
+  {
+   "name": "PGM 2 OUT RIGHT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-7",
+    "b": "P1-8"
+   }
+  },
+  {
+   "name": "AUX OUT LEFT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-11",
+    "b": "P1-12"
+   }
+  },
+  {
+   "name": "AUX OUT RIGHT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-13",
+    "b": "P1-14"
+   }
+  },
+  {
+   "name": "CUE OUT LEFT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-15",
+    "b": "P1-16"
+   }
+  },
+  {
+   "name": "CUE OUT RIGHT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-17",
+    "b": "P1-18"
+   }
+  },
+  {
+   "name": "INPUT B LEFT",
+   "dir": "in",
+   "pins": {
+    "a": "P2-A",
+    "b": "P2-1"
+   }
+  },
+  {
+   "name": "INPUT B RIGHT",
+   "dir": "in",
+   "pins": {
+    "a": "P2-B",
+    "b": "P2-2"
+   }
+  },
+  {
+   "name": "INPUT A LEFT",
+   "dir": "in",
+   "pins": {
+    "a": "P2-C",
+    "b": "P2-3"
+   }
+  },
+  {
+   "name": "INPUT A RIGHT",
+   "dir": "in",
+   "pins": {
+    "a": "P2-D",
+    "b": "P2-4"
+   }
+  },
+  {
+   "name": "INSERT SEND LEFT",
+   "dir": "insert_send",
+   "pins": {
+    "a": "P2-E",
+    "b": "P2-5"
+   }
+  },
+  {
+   "name": "INSERT SEND RIGHT",
+   "dir": "insert_send",
+   "pins": {
+    "a": "P2-F",
+    "b": "P2-6"
+   }
+  },
+  {
+   "name": "INSERT RETURN LEFT",
+   "dir": "insert_return",
+   "pins": {
+    "a": "P2-H",
+    "b": "P2-7"
+   }
+  },
+  {
+   "name": "INSERT RETURN RIGHT",
+   "dir": "insert_return",
+   "pins": {
+    "a": "P2-J",
+    "b": "P2-8"
+   }
+  },
+  {
+   "name": "INPUT B CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-L"
+   }
+  },
+  {
+   "name": "INPUT A CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-10"
+   }
+  },
+  {
+   "name": "EXT CUE",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-11"
+   }
+  },
+  {
+   "name": "EXT CH ON",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-N"
+   }
+  },
+  {
+   "name": "EXT CH OFF",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-12"
+   }
+  },
+  {
+   "name": "CH B CTL OUT",
+   "dir": "control_out",
+   "pins": {
+    "a": "P2-P"
+   }
+  },
+  {
+   "name": "CH A CTL OUT",
+   "dir": "control_out",
+   "pins": {
+    "a": "P2-13"
+   }
+  },
+  {
+   "name": "TIMER RESET",
+   "dir": "control_out",
+   "pins": {
+    "a": "P2-R"
+   }
+  },
+  {
+   "name": "ON CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-S",
+    "b": "P2-15"
+   }
+  },
+  {
+   "name": "OFF CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-U",
+    "b": "P2-17"
+   }
+  },
+  {
+   "name": "OFF TALLY",
+   "dir": "control_out",
+   "pins": {
+    "a": "P2-V",
+    "b": "P2-18"
+   }
+  }
+ ],
+ "inserts": [
+  {
+   "name": "INSERT LEFT",
+   "send": "INSERT SEND LEFT",
+   "return": "INSERT RETURN LEFT",
+   "normalled": null,
+   "note": "Drawing labels both E/5 and H/7 just 'INSERT, LEFT'; which row is send and which is return is not stated. E/5 = send, H/7 = return is an assumption from row order."
+  },
+  {
+   "name": "INSERT RIGHT",
+   "send": "INSERT SEND RIGHT",
+   "return": "INSERT RETURN RIGHT",
+   "normalled": null,
+   "note": "F/6 and J/8 both labelled 'INSERT, RIGHT'; F/6 = send, J/8 = return assumed from row order."
   }
  ],
  "straps": [
   {
-   "function": "Insert",
-   "designation": "JMP.6.7",
-   "from": "P2-6",
-   "to": "P2-7"
+   "name": "JMP.6.7",
+   "pins": [
+    "P2-6",
+    "P2-7"
+   ],
+   "note": "Insert",
+   "from": "RTO-144 sheet"
   },
   {
-   "function": "Insert",
-   "designation": "JMP.F.H",
-   "from": "P2-F",
-   "to": "P2-H"
+   "name": "JMP.F.H",
+   "pins": [
+    "P2-F",
+    "P2-H"
+   ],
+   "note": "Insert",
+   "from": "RTO-144 sheet"
   }
  ],
- "power": [
+ "conflicts": [],
+ "to_check": [
   {
-   "rail": "VEE-AUDIO",
-   "style": "NEW",
-   "volts": -25,
-   "max_a": 0.2,
-   "supply": "P2-19",
-   "ground": "P2-20",
-   "link": 2
-  },
-  {
-   "rail": "VCC-AUDIO",
-   "style": "NEW",
-   "volts": 25,
-   "max_a": 0.2,
-   "supply": "P2-21",
-   "ground": "P2-20",
-   "link": 1
+   "what": "insert guessed",
+   "pin": null,
+   "detail": "recorded as a send/return pair per channel, but the send/return assignment is assumed from row order, not drawn. (M490F: 1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.jpg)"
   }
- ],
- "sources": [
-  "Engineering/RTO-144/M490F/M490F.rto144.json",
-  "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1978 - M490F - 023.jpg",
-  "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1978 - M490F - Stereo Input Module.pdf",
-  "Modules/INPUT-PRE-AMPS/M490F/MANUALS/1983 - M490F - Stereo Input Module.pdf",
-  "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - RIIE IOOK.jpg",
-  "Modules/INPUT-PRE-AMPS/M490F/SCHEMATICS/1978 - M490F - 490-02-007 - STEREO INPUT MODULE.jpg"
  ]
 }

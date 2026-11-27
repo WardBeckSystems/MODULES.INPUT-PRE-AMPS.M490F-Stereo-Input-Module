@@ -83,71 +83,84 @@ Not on Google Drive yet: `M490F - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-22 contacts, 4 contacts (J2), 4 contacts (P1), 22 contacts (P2), 13 contacts (P7). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it); the RTO-144 sheet agrees on 15 of 15 contacts. Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+**To check:**
+
+- insert guessed: recorded as a send/return pair per channel, but the send/return assignment is assumed from row order, not drawn. (M490F: 1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.jpg)
+
+**Inserts:** INSERT LEFT: INSERT SEND LEFT → INSERT RETURN LEFT · INSERT RIGHT: INSERT SEND RIGHT → INSERT RETURN RIGHT
+
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 | LEFT PGRM 1 | audio | A3 + | high |
-| 1 | MIC IN A | in | A1 + | high |
-| 2 | PGM | audio |  | high |
-| 2 | LEFT PGRM 1 | audio | A3 - | high |
-| 2 |  | unread |  | low |
-| 3 | PGM | audio |  | high |
-| 3 | RIGHT PGRM 1 | audio | A4 + | high |
-| 3 | MIC IN B | in | A2 + | high |
-| 4 | PGM | audio |  | high |
-| 4 | RIGHT PGRM 1 | audio | A4 - | high |
-| 4 |  | unread |  | low |
-| 5 | PGM 2 OUT , LEFT | out |  | high |
-| 5 |  | unread |  | low |
-| 6 | PGM 2 OUT, LEFT | out |  | high |
-| 6 | INSERT SEND | out | B1 + | high |
-| 7 | PGM 2 OU T, RIGHT | audio |  | high |
-| 7 | INSERT RETURN | in | B2 + | high |
-| 8 | PGM 2 OUT, RIGHT | out |  | high |
-| 8 |  | unread |  | low |
-| 9 | SHIELD | ground |  | high |
-| 9 |  | unread |  | low |
-| 10 | NC | nc |  | high |
-| 11 | AUX OU T, LEFT | other |  | high |
-| 11 |  | unread |  | low |
-| 12 | AUX OUT, LEFT | out |  | high |
-| 12 |  | unread |  | low |
-| 13 | AUX OUT, RIGHT | out |  | high |
-| 13 |  | unread |  | low |
-| 13 |  | unread |  | low |
-| 14 | AUX OUT, RIGHT | out |  | high |
-| 15 | CUE OUT, LEFT | out |  | high |
-| 16 | CUE OUT, LEFT | out |  | high |
-| 17 | CUE OUT, RIGHT | out |  | high |
-| 17 |  | unread |  | low |
-| 18 | CUE OUT, RIGHT | out |  | high |
-| 18 |  | unread |  | low |
-| 19 | NC | nc |  | high |
-| 19 | -25 V | power |  | high |
-| 20 | NC | nc |  | high |
-| 20 | COMMON | ground |  | high |
-| 21 | NC | nc |  | high |
-| 21 | +25 V | power |  | high |
-| 22 | CHASSIS | ground |  | high |
-| 22 |  | unread |  | low |
-| A | MIC IN A | in | A1 - | high |
-| C | MIC IN B | in | A2 - | high |
-| D |  | unread |  | low |
-| D |  | unread |  | low |
-| E |  | unread |  | low |
-| F | INSERT SEND | out | B1 - | high |
-| H | INSERT RETURN | in | B2 - | high |
-| J |  | unread |  | low |
-| L |  | unread |  | low |
-| M |  | unread |  | low |
-| N |  | unread |  | low |
-| R |  | unread |  | low |
-| U |  | unread |  | low |
-| V |  | unread |  | low |
-| X |  | unread |  | low |
+| P1-1 | PGM 1 OUT LEFT | out | PGM 1 OUT LEFT L | medium |
+| P1-2 | PGM 1 OUT LEFT | out | PGM 1 OUT LEFT L | medium |
+| P1-3 | PGM 1 OUT RIGHT | out | PGM 1 OUT RIGHT R | medium |
+| P1-4 | PGM 1 OUT RIGHT | out | PGM 1 OUT RIGHT R | medium |
+| P1-5 | PGM 2 OUT LEFT | out | PGM 2 OUT LEFT L | medium |
+| P1-6 | PGM 2 OUT LEFT | out | PGM 2 OUT LEFT L | medium |
+| P1-7 | PGM 2 OUT RIGHT | out | PGM 2 OUT RIGHT R | medium |
+| P1-8 | PGM 2 OUT RIGHT | out | PGM 2 OUT RIGHT R | medium |
+| P1-9 | SHIELD | shield | shield | medium |
+| P1-10 | N/C | nc |  | medium |
+| P1-11 | AUX OUT LEFT | out | AUX OUT LEFT L | medium |
+| P1-12 | AUX OUT LEFT | out | AUX OUT LEFT L | medium |
+| P1-13 | AUX OUT RIGHT | out | AUX OUT RIGHT R | medium |
+| P1-14 | AUX OUT RIGHT | out | AUX OUT RIGHT R | medium |
+| P1-15 | CUE OUT LEFT | out | CUE OUT LEFT L | medium |
+| P1-16 | CUE OUT LEFT | out | CUE OUT LEFT L | medium |
+| P1-17 | CUE OUT RIGHT | out | CUE OUT RIGHT R | medium |
+| P1-18 | CUE OUT RIGHT | out | CUE OUT RIGHT R | medium |
+| P1-19 | N/C | nc |  | medium |
+| P1-20 | N/C | nc |  | medium |
+| P1-21 | N/C | nc |  | medium |
+| P1-22 | CHASSIS | ground |  | medium |
+| P2-1 | INPUT B LEFT | in | INPUT B LEFT L | medium |
+| P2-2 | INPUT B RIGHT | in | INPUT B RIGHT R | medium |
+| P2-3 | INPUT A LEFT | in | INPUT A LEFT L | medium |
+| P2-4 | INPUT A RIGHT | in | INPUT A RIGHT R | medium |
+| P2-5 | INSERT SEND LEFT | insert_send | INSERT SEND LEFT L | medium |
+| P2-6 | INSERT SEND RIGHT | insert_send | INSERT SEND RIGHT R | medium |
+| P2-7 | INSERT RETURN LEFT | insert_return | INSERT RETURN LEFT L | medium |
+| P2-8 | INSERT RETURN RIGHT | insert_return | INSERT RETURN RIGHT R | medium |
+| P2-9 | SHIELD | shield | shield | medium |
+| P2-10 | INPUT A CTL | control_in | INPUT A CTL | medium |
+| P2-11 | EXT CUE | control_in | EXT CUE | medium |
+| P2-12 | EXT CH OFF | control_in | EXT CH OFF | medium |
+| P2-13 | CH A CTL OUT | control_out | CH A CTL OUT | medium |
+| P2-14 | N/C | nc |  | medium |
+| P2-15 | ON CTL | control_in | ON CTL | medium |
+| P2-16 | INTERNALLY CONNECTED | other |  | medium |
+| P2-17 | OFF CTL | control_in | OFF CTL | medium |
+| P2-18 | OFF TALLY | control_out | OFF TALLY | medium |
+| P2-19 | -25 V | power |  | medium |
+| P2-20 | 25 V COMMON | ground |  | medium |
+| P2-21 | +25 V | power |  | medium |
+| P2-22 | CONTROL COMMON | ground |  | medium |
+| P2-A | INPUT B LEFT | in | INPUT B LEFT L | medium |
+| P2-B | INPUT B RIGHT | in | INPUT B RIGHT R | medium |
+| P2-C | INPUT A LEFT | in | INPUT A LEFT L | medium |
+| P2-D | INPUT A RIGHT | in | INPUT A RIGHT R | medium |
+| P2-E | INSERT SEND LEFT | insert_send | INSERT SEND LEFT L | medium |
+| P2-F | INSERT SEND RIGHT | insert_send | INSERT SEND RIGHT R | medium |
+| P2-H | INSERT RETURN LEFT | insert_return | INSERT RETURN LEFT L | medium |
+| P2-J | INSERT RETURN RIGHT | insert_return | INSERT RETURN RIGHT R | medium |
+| P2-K | SHIELD | shield | shield | medium |
+| P2-L | INPUT B CTL | control_in | INPUT B CTL | medium |
+| P2-M | INPUT CTL COMMON | ground |  | medium |
+| P2-N | EXT CH ON | control_in | EXT CH ON | medium |
+| P2-P | CH B CTL OUT | control_out | CH B CTL OUT | medium |
+| P2-R | TIMER RESET | control_out | TIMER RESET | medium |
+| P2-S | ON CTL | control_in | ON CTL | medium |
+| P2-T | INTERNALLY CONNECTED | other |  | medium |
+| P2-U | OFF CTL | control_in | OFF CTL | medium |
+| P2-V | OFF TALLY | control_out | OFF TALLY | medium |
+| P2-W | -25 V | power |  | medium |
+| P2-X | 25 V COMMON | ground |  | medium |
+| P2-Y | +25 V | power |  | medium |
+| P2-Z | CONTROL COMMON | ground |  | medium |
 
-**Straps:** Insert: JMP.6.7 · Insert: JMP.F.H
+**Straps:** JMP.6.7: P2-6 P2-7 · JMP.F.H: P2-F P2-H
 
 ## Manuals and documents
 

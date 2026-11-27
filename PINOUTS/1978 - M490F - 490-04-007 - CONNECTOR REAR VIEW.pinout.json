@@ -1,0 +1,929 @@
+{
+ "schema": "wbs-pinout/1",
+ "picture": "1978 - M490F - 490-04-007 - CONNECTOR REAR VIEW.jpg",
+ "module": "M490F",
+ "applies_to": [
+  "M490F"
+ ],
+ "pinout": true,
+ "drawing": {
+  "number": "490-04-007",
+  "title": "M490F STEREO INPUT MODULE CONNECTOR REAR VIEW",
+  "date": "1978-02",
+  "issue": null,
+  "drawn": "E.R."
+ },
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 22,
+   "rows": "1-22 single row",
+   "view": "rear",
+   "part": null
+  },
+  {
+   "name": "P2",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z (no G, I, O, Q) opposite 1-22",
+   "view": "rear",
+   "part": null
+  }
+ ],
+ "pins": [
+  {
+   "connector": "P1",
+   "pin": "1",
+   "also": null,
+   "as_drawn": "PGM 1 OUT, LEFT",
+   "signal": "PGM 1 OUT LEFT",
+   "kind": "out",
+   "port": "PGM 1 OUT LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P1",
+   "pin": "2",
+   "also": null,
+   "as_drawn": "PGM 1 OUT, LEFT",
+   "signal": "PGM 1 OUT LEFT",
+   "kind": "out",
+   "port": "PGM 1 OUT LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P1",
+   "pin": "3",
+   "also": null,
+   "as_drawn": "PGM 1 OUT, RIGHT",
+   "signal": "PGM 1 OUT RIGHT",
+   "kind": "out",
+   "port": "PGM 1 OUT RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P1",
+   "pin": "4",
+   "also": null,
+   "as_drawn": "PGM 1 OUT, RIGHT",
+   "signal": "PGM 1 OUT RIGHT",
+   "kind": "out",
+   "port": "PGM 1 OUT RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P1",
+   "pin": "5",
+   "also": null,
+   "as_drawn": "PGM 2 OUT, LEFT",
+   "signal": "PGM 2 OUT LEFT",
+   "kind": "out",
+   "port": "PGM 2 OUT LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P1",
+   "pin": "6",
+   "also": null,
+   "as_drawn": "PGM 2 OUT, LEFT",
+   "signal": "PGM 2 OUT LEFT",
+   "kind": "out",
+   "port": "PGM 2 OUT LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P1",
+   "pin": "7",
+   "also": null,
+   "as_drawn": "PGM 2 OUT, RIGHT",
+   "signal": "PGM 2 OUT RIGHT",
+   "kind": "out",
+   "port": "PGM 2 OUT RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P1",
+   "pin": "8",
+   "also": null,
+   "as_drawn": "PGM 2 OUT, RIGHT",
+   "signal": "PGM 2 OUT RIGHT",
+   "kind": "out",
+   "port": "PGM 2 OUT RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P1",
+   "pin": "11",
+   "also": null,
+   "as_drawn": "AUX OUT, LEFT",
+   "signal": "AUX OUT LEFT",
+   "kind": "out",
+   "port": "AUX OUT LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P1",
+   "pin": "12",
+   "also": null,
+   "as_drawn": "AUX OUT, LEFT",
+   "signal": "AUX OUT LEFT",
+   "kind": "out",
+   "port": "AUX OUT LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P1",
+   "pin": "13",
+   "also": null,
+   "as_drawn": "AUX OUT, RIGHT",
+   "signal": "AUX OUT RIGHT",
+   "kind": "out",
+   "port": "AUX OUT RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P1",
+   "pin": "14",
+   "also": null,
+   "as_drawn": "AUX OUT, RIGHT",
+   "signal": "AUX OUT RIGHT",
+   "kind": "out",
+   "port": "AUX OUT RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P1",
+   "pin": "15",
+   "also": null,
+   "as_drawn": "CUE OUT, LEFT",
+   "signal": "CUE OUT LEFT",
+   "kind": "out",
+   "port": "CUE OUT LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P1",
+   "pin": "16",
+   "also": null,
+   "as_drawn": "CUE OUT, LEFT",
+   "signal": "CUE OUT LEFT",
+   "kind": "out",
+   "port": "CUE OUT LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P1",
+   "pin": "17",
+   "also": null,
+   "as_drawn": "CUE OUT, RIGHT",
+   "signal": "CUE OUT RIGHT",
+   "kind": "out",
+   "port": "CUE OUT RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P1",
+   "pin": "18",
+   "also": null,
+   "as_drawn": "CUE OUT, RIGHT",
+   "signal": "CUE OUT RIGHT",
+   "kind": "out",
+   "port": "CUE OUT RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P1",
+   "pin": "9",
+   "also": null,
+   "as_drawn": "SHIELD",
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield"
+  },
+  {
+   "connector": "P1",
+   "pin": "10",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "19",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "20",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "21",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P1",
+   "pin": "22",
+   "also": null,
+   "as_drawn": "CHASSIS",
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "A",
+   "also": null,
+   "as_drawn": "INPUT B, LEFT",
+   "signal": "INPUT B LEFT",
+   "kind": "in",
+   "port": "INPUT B LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P2",
+   "pin": "1",
+   "also": null,
+   "as_drawn": "INPUT B, LEFT",
+   "signal": "INPUT B LEFT",
+   "kind": "in",
+   "port": "INPUT B LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P2",
+   "pin": "B",
+   "also": null,
+   "as_drawn": "INPUT B, RIGHT",
+   "signal": "INPUT B RIGHT",
+   "kind": "in",
+   "port": "INPUT B RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P2",
+   "pin": "2",
+   "also": null,
+   "as_drawn": "INPUT B, RIGHT",
+   "signal": "INPUT B RIGHT",
+   "kind": "in",
+   "port": "INPUT B RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P2",
+   "pin": "C",
+   "also": null,
+   "as_drawn": "INPUT A, LEFT",
+   "signal": "INPUT A LEFT",
+   "kind": "in",
+   "port": "INPUT A LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P2",
+   "pin": "3",
+   "also": null,
+   "as_drawn": "INPUT A, LEFT",
+   "signal": "INPUT A LEFT",
+   "kind": "in",
+   "port": "INPUT A LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P2",
+   "pin": "D",
+   "also": null,
+   "as_drawn": "INPUT A, RIGHT",
+   "signal": "INPUT A RIGHT",
+   "kind": "in",
+   "port": "INPUT A RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P2",
+   "pin": "4",
+   "also": null,
+   "as_drawn": "INPUT A, RIGHT",
+   "signal": "INPUT A RIGHT",
+   "kind": "in",
+   "port": "INPUT A RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P2",
+   "pin": "E",
+   "also": null,
+   "as_drawn": "INSERT, LEFT",
+   "signal": "INSERT SEND LEFT",
+   "kind": "insert_send",
+   "port": "INSERT SEND LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P2",
+   "pin": "5",
+   "also": null,
+   "as_drawn": "INSERT, LEFT",
+   "signal": "INSERT SEND LEFT",
+   "kind": "insert_send",
+   "port": "INSERT SEND LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P2",
+   "pin": "F",
+   "also": null,
+   "as_drawn": "INSERT, RIGHT",
+   "signal": "INSERT SEND RIGHT",
+   "kind": "insert_send",
+   "port": "INSERT SEND RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P2",
+   "pin": "6",
+   "also": null,
+   "as_drawn": "INSERT, RIGHT",
+   "signal": "INSERT SEND RIGHT",
+   "kind": "insert_send",
+   "port": "INSERT SEND RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P2",
+   "pin": "H",
+   "also": null,
+   "as_drawn": "INSERT, LEFT",
+   "signal": "INSERT RETURN LEFT",
+   "kind": "insert_return",
+   "port": "INSERT RETURN LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P2",
+   "pin": "7",
+   "also": null,
+   "as_drawn": "INSERT, LEFT",
+   "signal": "INSERT RETURN LEFT",
+   "kind": "insert_return",
+   "port": "INSERT RETURN LEFT",
+   "polarity": "L"
+  },
+  {
+   "connector": "P2",
+   "pin": "J",
+   "also": null,
+   "as_drawn": "INSERT, RIGHT",
+   "signal": "INSERT RETURN RIGHT",
+   "kind": "insert_return",
+   "port": "INSERT RETURN RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P2",
+   "pin": "8",
+   "also": null,
+   "as_drawn": "INSERT, RIGHT",
+   "signal": "INSERT RETURN RIGHT",
+   "kind": "insert_return",
+   "port": "INSERT RETURN RIGHT",
+   "polarity": "R"
+  },
+  {
+   "connector": "P2",
+   "pin": "K",
+   "also": null,
+   "as_drawn": "SHIELD",
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield"
+  },
+  {
+   "connector": "P2",
+   "pin": "9",
+   "also": null,
+   "as_drawn": "SHIELD",
+   "signal": "SHIELD",
+   "kind": "shield",
+   "port": null,
+   "polarity": "shield"
+  },
+  {
+   "connector": "P2",
+   "pin": "L",
+   "also": null,
+   "as_drawn": "INPUT B CTL",
+   "signal": "INPUT B CTL",
+   "kind": "control_in",
+   "port": "INPUT B CTL",
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "10",
+   "also": null,
+   "as_drawn": "INPUT A CTL",
+   "signal": "INPUT A CTL",
+   "kind": "control_in",
+   "port": "INPUT A CTL",
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "M",
+   "also": null,
+   "as_drawn": "INPUT CTL COM",
+   "signal": "INPUT CTL COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "11",
+   "also": null,
+   "as_drawn": "EXT CUE",
+   "signal": "EXT CUE",
+   "kind": "control_in",
+   "port": "EXT CUE",
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "N",
+   "also": null,
+   "as_drawn": "EXT CH ON",
+   "signal": "EXT CH ON",
+   "kind": "control_in",
+   "port": "EXT CH ON",
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "12",
+   "also": null,
+   "as_drawn": "EXT CH OFF",
+   "signal": "EXT CH OFF",
+   "kind": "control_in",
+   "port": "EXT CH OFF",
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "P",
+   "also": null,
+   "as_drawn": "CH B CTL OUT",
+   "signal": "CH B CTL OUT",
+   "kind": "control_out",
+   "port": "CH B CTL OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "13",
+   "also": null,
+   "as_drawn": "CH A CTL OUT",
+   "signal": "CH A CTL OUT",
+   "kind": "control_out",
+   "port": "CH A CTL OUT",
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "R",
+   "also": null,
+   "as_drawn": "TIMER RESET",
+   "signal": "TIMER RESET",
+   "kind": "control_out",
+   "port": "TIMER RESET",
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "14",
+   "also": null,
+   "as_drawn": "NC",
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "S",
+   "also": null,
+   "as_drawn": "ON CTL",
+   "signal": "ON CTL",
+   "kind": "control_in",
+   "port": "ON CTL",
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "15",
+   "also": null,
+   "as_drawn": "ON CTL",
+   "signal": "ON CTL",
+   "kind": "control_in",
+   "port": "ON CTL",
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "T",
+   "also": null,
+   "as_drawn": "IC",
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "16",
+   "also": null,
+   "as_drawn": "IC",
+   "signal": "INTERNALLY CONNECTED",
+   "kind": "other",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "U",
+   "also": null,
+   "as_drawn": "OFF CTL",
+   "signal": "OFF CTL",
+   "kind": "control_in",
+   "port": "OFF CTL",
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "17",
+   "also": null,
+   "as_drawn": "OFF CTL",
+   "signal": "OFF CTL",
+   "kind": "control_in",
+   "port": "OFF CTL",
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "V",
+   "also": null,
+   "as_drawn": "OFF TALLY",
+   "signal": "OFF TALLY",
+   "kind": "control_out",
+   "port": "OFF TALLY",
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "18",
+   "also": null,
+   "as_drawn": "OFF TALLY",
+   "signal": "OFF TALLY",
+   "kind": "control_out",
+   "port": "OFF TALLY",
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "W",
+   "also": null,
+   "as_drawn": "-25V",
+   "signal": "-25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "19",
+   "also": null,
+   "as_drawn": "-25V",
+   "signal": "-25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "X",
+   "also": null,
+   "as_drawn": "25V COM",
+   "signal": "25 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "20",
+   "also": null,
+   "as_drawn": "25V COM",
+   "signal": "25 V COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Y",
+   "also": null,
+   "as_drawn": "+25V",
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "21",
+   "also": null,
+   "as_drawn": "+25V",
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Z",
+   "also": null,
+   "as_drawn": "CTL COM",
+   "signal": "CONTROL COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "P2",
+   "pin": "22",
+   "also": null,
+   "as_drawn": "CTL COM",
+   "signal": "CONTROL COMMON",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "PGM 1 OUT LEFT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-1",
+    "b": "P1-2"
+   }
+  },
+  {
+   "name": "PGM 1 OUT RIGHT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-3",
+    "b": "P1-4"
+   }
+  },
+  {
+   "name": "PGM 2 OUT LEFT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-5",
+    "b": "P1-6"
+   }
+  },
+  {
+   "name": "PGM 2 OUT RIGHT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-7",
+    "b": "P1-8"
+   }
+  },
+  {
+   "name": "AUX OUT LEFT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-11",
+    "b": "P1-12"
+   }
+  },
+  {
+   "name": "AUX OUT RIGHT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-13",
+    "b": "P1-14"
+   }
+  },
+  {
+   "name": "CUE OUT LEFT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-15",
+    "b": "P1-16"
+   }
+  },
+  {
+   "name": "CUE OUT RIGHT",
+   "dir": "out",
+   "pins": {
+    "a": "P1-17",
+    "b": "P1-18"
+   }
+  },
+  {
+   "name": "INPUT B LEFT",
+   "dir": "in",
+   "pins": {
+    "a": "P2-A",
+    "b": "P2-1"
+   }
+  },
+  {
+   "name": "INPUT B RIGHT",
+   "dir": "in",
+   "pins": {
+    "a": "P2-B",
+    "b": "P2-2"
+   }
+  },
+  {
+   "name": "INPUT A LEFT",
+   "dir": "in",
+   "pins": {
+    "a": "P2-C",
+    "b": "P2-3"
+   }
+  },
+  {
+   "name": "INPUT A RIGHT",
+   "dir": "in",
+   "pins": {
+    "a": "P2-D",
+    "b": "P2-4"
+   }
+  },
+  {
+   "name": "INSERT SEND LEFT",
+   "dir": "insert_send",
+   "pins": {
+    "a": "P2-E",
+    "b": "P2-5"
+   }
+  },
+  {
+   "name": "INSERT SEND RIGHT",
+   "dir": "insert_send",
+   "pins": {
+    "a": "P2-F",
+    "b": "P2-6"
+   }
+  },
+  {
+   "name": "INSERT RETURN LEFT",
+   "dir": "insert_return",
+   "pins": {
+    "a": "P2-H",
+    "b": "P2-7"
+   }
+  },
+  {
+   "name": "INSERT RETURN RIGHT",
+   "dir": "insert_return",
+   "pins": {
+    "a": "P2-J",
+    "b": "P2-8"
+   }
+  },
+  {
+   "name": "INPUT B CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-L"
+   }
+  },
+  {
+   "name": "INPUT A CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-10"
+   }
+  },
+  {
+   "name": "EXT CUE",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-11"
+   }
+  },
+  {
+   "name": "EXT CH ON",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-N"
+   }
+  },
+  {
+   "name": "EXT CH OFF",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-12"
+   }
+  },
+  {
+   "name": "CH B CTL OUT",
+   "dir": "control_out",
+   "pins": {
+    "a": "P2-P"
+   }
+  },
+  {
+   "name": "CH A CTL OUT",
+   "dir": "control_out",
+   "pins": {
+    "a": "P2-13"
+   }
+  },
+  {
+   "name": "TIMER RESET",
+   "dir": "control_out",
+   "pins": {
+    "a": "P2-R"
+   }
+  },
+  {
+   "name": "ON CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-S",
+    "b": "P2-15"
+   }
+  },
+  {
+   "name": "OFF CTL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-U",
+    "b": "P2-17"
+   }
+  },
+  {
+   "name": "OFF TALLY",
+   "dir": "control_out",
+   "pins": {
+    "a": "P2-V",
+    "b": "P2-18"
+   }
+  }
+ ],
+ "inserts": [
+  {
+   "name": "INSERT LEFT",
+   "send": "INSERT SEND LEFT",
+   "return": "INSERT RETURN LEFT",
+   "normalled": null,
+   "note": "Drawing labels both E/5 and H/7 just 'INSERT, LEFT'; which row is send and which is return is not stated. E/5 = send, H/7 = return is an assumption from row order."
+  },
+  {
+   "name": "INSERT RIGHT",
+   "send": "INSERT SEND RIGHT",
+   "return": "INSERT RETURN RIGHT",
+   "normalled": null,
+   "note": "F/6 and J/8 both labelled 'INSERT, RIGHT'; F/6 = send, J/8 = return assumed from row order."
+  }
+ ],
+ "straps": [],
+ "unread": [
+  "ISSUE box: a faint mark, possibly '1' (unclear)",
+  "Which INSERT row (E/5 vs H/7, F/6 vs J/8) is the send and which the return is not on the drawing"
+ ],
+ "confidence": "medium",
+ "notes": "Two connectors, rear view: P1 (UPPER) single row 1-22, P2 (LOWER) letters A-Z (no G, I, O, Q) opposite 1-22, each contact labelled separately. P1 carries the stereo outputs: each output leg is labelled on two adjacent contacts (e.g. 1 and 2 both 'PGM 1 OUT, LEFT'), read as a balanced pair without drawn +/- (ports 'a'/'b', polarity = channel L/R). P2 inputs and inserts carry the same label on the letter and number contact (balanced pair, no +/- drawn). INSERT: two rows per channel (LEFT: E/5 and H/7; RIGHT: F/6 and J/8) all just labelled 'INSERT'; recorded as a send/return pair per channel, but the send/return assignment is assumed from row order, not drawn. Control directions not drawn: CTL/EXT/TIMER inputs and outputs recorded by their names ('CTL OUT', 'TALLY' as control_out; TIMER RESET as control_out is a guess). IC = INTERNALLY CONNECTED (T/16), NC = NOT CONNECTED. Title block: Ward-Beck Systems, size B, DRN. E.R., ENG. 2/78, CKD. signed. Every label legible."
+}
