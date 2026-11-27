@@ -59,6 +59,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLVE4QTEzRUd4TjA/view?resourcekey=0-jWKLxTi669xez-5KfQKVug" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLVE4QTEzRUd4TjA&resourcekey=0-jWKLxTi669xez-5KfQKVug" width="240" alt="1978 - M490F - 490-04-014 - USED FOR IGNA PURPOSES FROM REMOTE LOCATION.jpg"></a><br><sub>1978|11 · 490-04-014 - USED FOR IGNA PURPOSES FROM REMOTE LOCATION · <a href="MECHANICAL/1978%20-%20M490F%20-%20490-04-014%20-%20USED%20FOR%20IGNA%20PURPOSES%20FROM%20REMOTE%20LOCATION%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTHk4THo2RzRjQlk/view?resourcekey=0-9iAcWQjGhY57yCHbi2BAhw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTHk4THo2RzRjQlk&resourcekey=0-9iAcWQjGhY57yCHbi2BAhw" width="240" alt="1978 - M490F - 90-04-014 - STEREO INPUT MODULE FRONT PANEL.jpg"></a><br><sub>1978|11 · 90-04-014 - STEREO INPUT MODULE FRONT PANEL · <a href="MECHANICAL/1978%20-%20M490F%20-%2090-04-014%20-%20STEREO%20INPUT%20MODULE%20FRONT%20PANEL%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M490F.stl`](MECHANICAL/M490F.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M490F)
+
+- **Size:** 49.87 × 301.83 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 14 holes and cut-outs, 1 knobs (front panel: `MECHANICAL/M490F - front panel.svg`)
+- the drawn panel is 0.11 wide to high, the size 0.17: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M490F.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
