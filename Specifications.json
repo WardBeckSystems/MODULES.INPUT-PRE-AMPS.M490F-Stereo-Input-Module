@@ -1,0 +1,161 @@
+{
+ "module": "M490F",
+ "title": "M490F STEREO INPUT_MODULE",
+ "source": {
+  "file": "MANUALS/1978 - M490F - 004.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.87,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivity",
+   "key": "input_sensitivity",
+   "text": "Frequency Response: -10 to +10 dBm (ref. 600 ohm source) ±0.5 dB from 30 Hz to 20 kHz_:, ^ '.:. Noise: 75 dB be Tow nomina [ operating Teve]: `. with mixing attenuator set at 15 dB o. 3 s in-hand\" (20 Hz to 20 kHz) _. 7<:..... ` Harmonic Distortion: Less than 0.35% THD from 30 Hz to /, ' 20 kHz at 20 dB above nomina ] 4'.; operating Teve] or Tess ` /d.:: Less than 0.1% at kHz at 20 dB:>^. s above nomina] operating level or Tess _ ';.X Less than 0.5 % at kHz through cue P.. channe] at 20 dB above nomina ] operating Teve] or Tess ` Source Impedance: 600 ohms or less, balanced. \". 4... Input Impedance: 30, 000 ohms",
+   "quantities": [
+    {
+     "from": -10,
+     "to": 10,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohm"
+    },
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 75,
+     "unit": "dB"
+    },
+    {
+     "value": 15,
+     "unit": "dB"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 0.35,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 20,
+     "unit": "dB"
+    },
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "dB"
+    },
+    {
+     "value": 0.5,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "dB"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 0,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "edo,. n. Output Leve]: 30,000 ohms balanced (program circuits) 60,000 ohms balanced (cue circuits) _ 0 dBm nomina] +22 dBm maximum",
+   "quantities": [
+    {
+     "value": 30000,
+     "unit": "ohms"
+    },
+    {
+     "value": 60000,
+     "unit": "ohms"
+    },
+    {
+     "value": 0,
+     "unit": "dBm"
+    },
+    {
+     "value": 22,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Channel separation",
+   "key": "channel_separation",
+   "text": "50 dB from 50 Hz to 15 kHz.",
+   "quantities": [
+    {
+     "value": 50,
+     "unit": "dB"
+    },
+    {
+     "value": 50,
+     "unit": "Hz"
+    },
+    {
+     "value": 15,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Input and output terminals designated by numbers are in phase, or Tower number of numbered pair is in phase with ower number of other numbered pair"
+  },
+  {
+   "name": "Input levels",
+   "key": "input_level",
+   "text": "(to operate ch ON CH OFF:` {.s U. Logic 0: 0 to +13 volts.,. '`.' Logic 1: +16 to +24 volts Ut 4. =. '..:. ': ^. ` 3.. '..:.; '.. 7`... ` 4.` ' a \"..",
+   "quantities": [
+    {
+     "from": 0,
+     "to": 13,
+     "unit": "volts"
+    },
+    {
+     "from": 16,
+     "to": 24,
+     "unit": "volts"
+    }
+   ]
+  }
+ ]
+}

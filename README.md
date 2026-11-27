@@ -13,6 +13,34 @@ Ward-Beck Systems M490F, 1978|11. Wiki page: [M490F on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 12 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 67 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [12 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1978 - M490F - 004.jpg](MANUALS/1978%20-%20M490F%20-%20004.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Input sensitivity** | Frequency Response: -10 to +10 dBm (ref. 600 ohm source) ±0.5 dB from 30 Hz to 20 kHz_:, ^ '.:. Noise: 75 dB be Tow nomina [ operating Teve]: `. with mixing attenuator set at 15 dB o. 3 s in-hand&quot; (20 Hz to 20 kHz) _. 7&lt;:..... ` Harmonic Distortion: Less than 0.35% THD from 30 Hz to /, ' 20 kHz at 20 dB above nomina ] 4'.; operating Teve] or Tess ` /d.:: Less than 0.1% at kHz at 20 dB:&gt;^. s above nomina] operating level or Tess _ ';.X Less than 0.5 % at kHz through cue P.. channe] at 20 dB above nomina ] operating Teve] or Tess ` Source Impedance: 600 ohms or less, balanced. &quot;. 4... Input Impedance: 30, 000 ohms |
+| **Output impedances** | edo,. n. Output Leve]: 30,000 ohms balanced (program circuits) 60,000 ohms balanced (cue circuits) _ 0 dBm nomina] +22 dBm maximum |
+| **Channel separation** | 50 dB from 50 Hz to 15 kHz. |
+| **Phasing** | Input and output terminals designated by numbers are in phase, or Tower number of numbered pair is in phase with ower number of other numbered pair |
+| **Input levels** | (to operate ch ON CH OFF:` {.s U. Logic 0: 0 to +13 volts.,. '`.' Logic 1: +16 to +24 volts Ut 4. =. '..:. ': ^. ` 3.. '..:.; '.. 7`... ` 4.` ' a &quot;.. |
+
+## Circuit description
+
+From [1978 - M490F - 007.jpg](MANUALS/1978%20-%20M490F%20-%20007.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+M490F STEREO InpuT MODULE M490F STEREO InPUt MODULE number of individual input functions govern the status of the dual flip-flop 210 _ description of each input function follows Pin of P2 is isolated through diode CR4 When connected in para ] Tel with the same output of other modules it provides convenient or gate configuration, suitable to reset common timer each time CHANNEL on button is depressed. 2:. Channel 0ff.;.. Momentary operation of the CHANNEL OFF switch Sw8 or momentary ground closure of the EXTERNAL CHANNEL OFF control input at P2, pin 12 Wil result in negative going pulse at 210 pin and &quot;clear the A-section of 210 producing volts at 210, pin 15 Consequently the Teft and right solid state PROGRAM switches wil switch OFF, Q7 will stop conducting causing DS3 to extinguish, and the muting contro] outputs at P2, pins 13 and Wi1l be disabled _. separate contact is ava i lab ]e on Sw8 and is ^ accessible at P2, pins 17/U. It maybe used for machine top&quot; 60 `. separate CHANNEL 0FF tally Tamp is built into Sw8 and is connected to P2 pins 18/V.. '... In addition to the norma 1 pushbutton operated 2 CHANNEL 0FF function, both Teft and right solid state PROGRAM switches are switched 0FF whenever the mixing attenuator 15 moved to the infinite position and switch SW10 is closed The vo ]t 21 ` potential] developed at 29 pin 10 is fed directly. ' to the two PROGRAM switches and causes them to ^. switch OFF However, the status of 210 the CHANNEL on indicator and the muting controls, _ remain unaffected by this operation _ (^ &quot;):. ^.'. Aa..:.: &lt;.: &gt;. Cue '.... n... ', 6 `., to `;. a 4'.. ` The B-section of 210 is used to contro] the solid state ' CUE switches The flip-flop will change state each.a time negative g0 ing transition takes pace at pin 2 of 210 Consequently, with each input pulse, the &quot;' CUE channels willa Iternate between on and 0FF ~.` &quot;,.: ` ` ` Initial Reset When power is initially applied to the system, the ion Bomhi&quot;cteon &quot;fnFRt? _fRZia CRz3] acd8c38 FullyPcharged; thus ensuring that all so] id state switches are in the {, OFF position... a P Channel On Momentary operation of the ChAnNEL ON switch SWg wil] Produce negative going pulse at 210 pin and {`.. preset the A-section of 210. Alternatively, momentary ground closure of the EXTERNAL CHANNEL on. control nput at P2, pin Will result in the same. condition. &quot;.. &lt;.`:.. 3; &quot; ` ' Once the flip-flop is &quot;preset&quot; its output at Pin 15 changes from to (approximately +10 volts) This Wi1] cause the Teft and right PROGRAM switches to switch on Furthermore, Q7 will saturate resulting in the CHANNEL on indicator Tamp DS3 to switch on With Q7 saturated the contro] common potential] '.;` appears at the emitters of Q8 and Q9 A' positive.^ base potential] is app] ied to either Q8 or Q9 depend ing on whether InPUt SELECTOR switch SW1 or SW2 is depressed Effectively Q8 and Q9 operate, similarly to two AND gates The co ]vectors of the &lt;.. two transistors represent the outputs of the AND gates They appear at P2, pin 13 and These terminals are:` capab ] e of sinking maximum current of 40 mA each:cc % from 24 vot source and maybe used for muting. ' G purposes... u{ ' When operating the CHANNEL on switch Sw9 separate &quot;.^ contact is closed accessible at P2, Pins 15/5 This &quot;A1 contact maybe used for simultaneous machine start.
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

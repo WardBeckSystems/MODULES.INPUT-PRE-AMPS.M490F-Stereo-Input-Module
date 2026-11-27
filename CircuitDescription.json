@@ -1,0 +1,19 @@
+{
+ "module": "M490F",
+ "source": {
+  "file": "MANUALS/1978 - M490F - 007.jpg",
+  "pages": [
+   1
+  ]
+ },
+ "ocr_quality": 0.94,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "M490F STEREO InpuT MODULE M490F STEREO InPUt MODULE number of individual input functions govern the status of the dual flip-flop 210 _ description of each input function follows Pin of P2 is isolated through diode CR4 When connected in para ] Tel with the same output of other modules it provides convenient or gate configuration, suitable to reset common timer each time CHANNEL on button is depressed. 2:. Channel 0ff.;.. Momentary operation of the CHANNEL OFF switch Sw8 or momentary ground closure of the EXTERNAL CHANNEL OFF control input at P2, pin 12 Wil result in negative going pulse at 210 pin and \"clear the A-section of 210 producing volts at 210, pin 15 Consequently the Teft and right solid state PROGRAM switches wil switch OFF, Q7 will stop conducting causing DS3 to extinguish, and the muting contro] outputs at P2, pins 13 and Wi1l be disabled _. separate contact is ava i lab ]e on Sw8 and is ^ accessible at P2, pins 17/U. It maybe used for machine top\" 60 `. separate CHANNEL 0FF tally Tamp is built into Sw8 and is connected to P2 pins 18/V.. '... In addition to the norma 1 pushbutton operated 2 CHANNEL 0FF function, both Teft and right solid state PROGRAM switches are switched 0FF whenever the mixing attenuator 15 moved to the infinite position and switch SW10 is closed The vo ]t 21 ` potential] developed at 29 pin 10 is fed directly. ' to the two PROGRAM switches and causes them to ^. switch OFF However, the status of 210 the CHANNEL on indicator and the muting controls, _ remain unaffected by this operation _ (^ \"):. ^.'. Aa..:.: <.: >. Cue '.... n... ', 6 `., to `;. a 4'.. ` The B-section of 210 is used to contro] the solid state ' CUE switches The flip-flop will change state each.a time negative g0 ing transition takes pace at pin 2 of 210 Consequently, with each input pulse, the \"' CUE channels willa Iternate between on and 0FF ~.` \",.: ` ` ` Initial Reset When power is initially applied to the system, the ion Bomhi\"cteon \"fnFRt? _fRZia CRz3] acd8c38 FullyPcharged; thus ensuring that all so] id state switches are in the {, OFF position... a P Channel On Momentary operation of the ChAnNEL ON switch SWg wil] Produce negative going pulse at 210 pin and {`.. preset the A-section of 210. Alternatively, momentary ground closure of the EXTERNAL CHANNEL on. control nput at P2, pin Will result in the same. condition. \".. <.`:.. 3; \" ` ' Once the flip-flop is \"preset\" its output at Pin 15 changes from to (approximately +10 volts) This Wi1] cause the Teft and right PROGRAM switches to switch on Furthermore, Q7 will saturate resulting in the CHANNEL on indicator Tamp DS3 to switch on With Q7 saturated the contro] common potential] '.;` appears at the emitters of Q8 and Q9 A' positive.^ base potential] is app] ied to either Q8 or Q9 depend ing on whether InPUt SELECTOR switch SW1 or SW2 is depressed Effectively Q8 and Q9 operate, similarly to two AND gates The co ]vectors of the <.. two transistors represent the outputs of the AND gates They appear at P2, pin 13 and These terminals are:` capab ] e of sinking maximum current of 40 mA each:cc % from 24 vot source and maybe used for muting. ' G purposes... u{ ' When operating the CHANNEL on switch Sw9 separate \".^ contact is closed accessible at P2, Pins 15/5 This \"A1 contact maybe used for simultaneous machine start."
+   ]
+  }
+ ]
+}
