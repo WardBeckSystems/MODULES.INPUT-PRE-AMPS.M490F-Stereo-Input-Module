@@ -1,5 +1,5 @@
 # 19xx - M490F - INTEGRATED CIRCUIT DATA 74C76 DUAL J-K FLIP-FLOP WITH CLEAR AND PRESET.jpg
-Wiki page: [M490F](../../../../PAGES/M490F.md)
+Wiki page: [M490F](../)
 
 
 - **Year:** unknown (title block (read by eye))

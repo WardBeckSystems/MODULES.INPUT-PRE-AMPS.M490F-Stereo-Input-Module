@@ -1,5 +1,5 @@
 # 1983 - M490F - Stereo Input Module.pdf
-Wiki page: [M490F](../../../../PAGES/M490F.md)
+Wiki page: [M490F](../)
 
 
 - **Year:** 1983 (found in this file: "OCTOBER 1983")

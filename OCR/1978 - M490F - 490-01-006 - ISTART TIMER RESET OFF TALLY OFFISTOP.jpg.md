@@ -1,5 +1,5 @@
 # 1978 - M490F - 490-01-006 - ISTART TIMER RESET OFF TALLY OFFISTOP.jpg
-Wiki page: [M490F](../../../../PAGES/M490F.md)
+Wiki page: [M490F](../)
 
 
 - **Year:** 1978 (found in this file: "DRAWN 2/78")

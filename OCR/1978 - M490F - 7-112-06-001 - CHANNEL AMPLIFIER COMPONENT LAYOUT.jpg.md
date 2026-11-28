@@ -1,5 +1,5 @@
 # 1978 - M490F - 7-112-06-001 - CHANNEL AMPLIFIER COMPONENT LAYOUT.jpg
-Wiki page: [M490F](../../../../PAGES/M490F.md)
+Wiki page: [M490F](../)
 
 
 - **Year:** 1978 (module estimate (labelled))
